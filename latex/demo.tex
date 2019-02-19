@@ -97,7 +97,7 @@
 }
 
 %%%------------- title -------------%
-\title[$\omega$ Cross-Section Studiesu A2] % short title
+\title[$\omega$ Cross-Section Studies] % short title
 			{Omega Cross-Section} % long title
 \subtitle{}
 \date{Mainz, March 2019}
@@ -392,16 +392,16 @@ The theme \emph{itself} is licensed under a
 
 	\centering
 	\includegraphics[width=8cm]{Plots/Oli10.pdf}
-	\caption{Olis Data; Dip at about cos$(\theta)=-0.3$}
+	\caption{Olis Cross Section; Dip at about cos$(\theta)=-0.3$}
 \end{figure}
 \end{frame}
 
 
-\begin{frame}{More Points}
+\begin{frame}{Increasing the Number of Bins}
 	\begin{figure}
 		\centering
 		\includegraphics[width=8cm]{Plots/Bins40.pdf}
-		\caption{Increased number of points; now there is still a dip at cos($\theta)=-0.3$ but also a peak at cos($\theta)=-0.5$}
+		\caption{Increased number of bins to 40; now there is still a dip at cos($\theta)=-0.3$ but also a peak at cos($\theta)=-0.5$}
 	\end{figure}
 \end{frame}
 
@@ -409,13 +409,12 @@ The theme \emph{itself} is licensed under a
 
 
 
-\begin{frame}{More Points}
-	Increased the number of points from 10 to 40
-	
+\begin{frame}{Comparing 10 Bin to 40 Bin Cross Section}
+		
 	\begin{figure}
 		\centering
 		\includegraphics[width=8cm]{Plots/OverlapCrossOli40.pdf}
-		\caption{Overlap}
+		\caption{Both Cross Sections are shown.}
 	\end{figure}
 	
 \end{frame}
@@ -424,14 +423,14 @@ The theme \emph{itself} is licensed under a
 	\centering
 	\begin{figure}
 		\includegraphics[width=8cm]{Plots/Cross-Section40.pdf}
-		\caption{There is a efficiency drop at cos($\theta)=-0.3$}
+		\caption{Cross Section and efficiency. There is an efficiency drop at cos($\theta) \approx -0.3$}
 	\end{figure}
 \end{frame}
 
-\begin{frame}{Looking at different particles}
-	\begin{equation}
+\begin{frame}{Taking a closer Look}
+	\begin{equation*}
 		\omega \rightarrow \gamma \underset{\hspace{0.25cm}\rotatebox[origin=c]{180}{$\Lsh$} \gamma \gamma 	}{\pi^0}
-	\end{equation}
+	\end{equation*}
 	Closer look at:
 	 
 	 \begin{multicols}{2}
@@ -452,9 +451,10 @@ The theme \emph{itself} is licensed under a
 
 	and compare MC with Beamtime Data (both reconstructed)
 
-	Used Cuts:
+	What was used?:
 
 	\begin{itemize}
+		\item  Prompt Random Subtraktion
 		\item  w\_taggW ("TaggW");
 		\item  w\_mass\_Cut("ggg.M()$>$700");
 		\item  cut\_KCut("KinFitProb $>$ 0.2 \&\& nCandsInput $==$ 4 \&\& copl\_angle $<$ 0.05");
@@ -501,8 +501,34 @@ The theme \emph{itself} is licensed under a
 
 \end{frame}
 
+\begin{frame}{Conclusion}
+	
+\end{frame}
+
+
 
 \section{Unfolding}
+
+\begin{frame}{What is Unfolding?}
+	content...
+\end{frame}
+
+
+\begin{frame}{Example}
+	
+\begin{figure}
+	\includegraphics<1>[width=8cm]{Plots/truth}
+
+	\includegraphics<2>[width=8cm]{Plots/meas_truth}
+	\includegraphics<3>[width=8cm]{Plots/folded}
+	\caption{Example for a working Unfolding Algorithm}
+\end{figure}
+	
+	
+\end{frame}
+
+
+
 
 \begin{frame}{Folded}
 	\begin{figure}
@@ -523,10 +549,6 @@ The theme \emph{itself} is licensed under a
 		\includegraphics[width=8cm]{Plots/FlatMC.pdf}
 		\caption{Flat $\omega$ was used. MC fitted data were folded.}
 	\end{figure}
-\end{frame}
-
-\begin{frame}{Flat $\omega$; Folded Beamtime Data}
-	%\includegraphics[width=8cm]{}
 \end{frame}
 
 

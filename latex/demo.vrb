@@ -1,0 +1,19 @@
+\frametitle{Boxes which fit the Blocks}
+\begin{mdframed}[style=alert,userdefinedwidth=1\textwidth,align=center]
+		Across the centuries billions upon billions courage of our questions galaxies, vanquish the impossible.
+	\end{mdframed}
+	\begin{mdframed}[style=example,userdefinedwidth=1\textwidth,align=center]
+		As a patch of light, muse about circumnavigated, inconspicuous motes of rock and gas.
+	\end{mdframed}
+
+
+{\footnotesize  \begin{verbatim}
+\begin{mdframed}
+  [style=alert,userdefinedwidth=1\textwidth,align=center]
+    Across...
+\end{mdframed}
+\begin{mdframed}
+  [style=example,userdefinedwidth=1\textwidth,align=center]
+    As a patch...
+\end{mdframed}
+\end{verbatim}}

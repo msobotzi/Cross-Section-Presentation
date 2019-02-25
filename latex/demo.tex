@@ -388,6 +388,7 @@ The theme \emph{itself} is licensed under a
 \begin{frame}{Starting Point}
 
 
+
 \begin{figure}
 
 	\centering
@@ -509,12 +510,42 @@ The theme \emph{itself} is licensed under a
 
 \section{Unfolding}
 
-\begin{frame}{What is Unfolding?}
-	content...
+\begin{frame}{Motivation}
+	\begin{itemize}
+		\item $\mu$ is the \textit{true} distribution given by nature
+		\item detector effects are then described by the response function \textit{R}. (inefficiencies, bias and smearing)
+		\item This results in the distribution $\nu$. 
+	\end{itemize}
+	%\begin{equation*}
+		\begin{center}
+$		\nu_i = \sum_{j=1}^{M} R_{ij} \mu_j$  
+		\end{center}
+	%\end{equation*}
+	
+	\begin{itemize}		
+		\item With infinite statistics, it would be possible to recover the original distribution by inverting the response matrix
+		
+	\end{itemize}
+
+\begin{equation*}
+	\mu = R^{-1} \nu
+\end{equation*}
+%Unfortunately there are statistical fluctuations between bins and since R washes out statistical fluctuations R^-1 cannpt distinguish between wildly fluctuating and smoot distributions.
+
+
+\end{frame}
+
+\begin{frame}{What is Unfolding?} 
+\begin{itemize} 
+		\item  Using MC we can train the unfolding algorithm
+		\item Create a 2D-Hist with $ \textrm{cos}(\theta_{\omega}) $ of all generated and all reconstructed $\omega$ ($\omega$ which are generated but not reconstructed are label \textit{miss})
+		\item Then we can solve for $\mu$ iteratively	
+	\end{itemize}
+
 \end{frame}
 
 
-\begin{frame}{Example}
+\begin{frame}{Example with Gaussian}
 	
 \begin{figure}
 	\includegraphics<1>[width=8cm]{Plots/truth}

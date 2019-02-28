@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.11.21)  25 FEB 2019 15:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.11.21)  28 FEB 2019 14:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1453,32 +1453,24 @@ Package pdftex.def Info: a2logo_white.pdf used on input line 503.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [10
 
- <./Plots/MC/1/ThetaTheta1Omega.pdf>]
-File: a2logo_white.pdf Graphic file (type pdf)
- <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 507.
-(pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
- [11
-
-] [12
+ <./Plots/MC/1/ThetaTheta1Omega.pdf>] [11
 
 ]
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
 Package pdftex.def Info: a2logo_white.pdf used on input line 536.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
-
-[13
+ [12
 
 ]
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
 Package pdftex.def Info: a2logo_white.pdf used on input line 545.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
- [14
 
-]
-<Plots/truth.pdf, id=577, 569.12625pt x 341.275pt>
+[13
+
+] <Plots/truth.pdf, id=571, 569.12625pt x 341.275pt>
 File: Plots/truth.pdf Graphic file (type pdf)
  <use Plots/truth.pdf>
 Package pdftex.def Info: Plots/truth.pdf used on input line 559.
@@ -1488,10 +1480,10 @@ File: a2logo_white.pdf Graphic file (type pdf)
 <use a2logo_white.pdf>
 Package pdftex.def Info: a2logo_white.pdf used on input line 559.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
- [15
+ [14
 
  <./Plots/truth.pdf, page is rotated 90 degrees>]
-<Plots/meas_truth.pdf, id=628, 569.12625pt x 341.275pt>
+<Plots/meas_truth.pdf, id=622, 569.12625pt x 341.275pt>
 File: Plots/meas_truth.pdf Graphic file (type pdf)
 
 <use Plots/meas_truth.pdf>
@@ -1501,10 +1493,10 @@ File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
 Package pdftex.def Info: a2logo_white.pdf used on input line 559.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
- [16
+ [15
 
  <./Plots/meas_truth.pdf, page is rotated 90 degrees>]
-<Plots/folded.pdf, id=680, 569.12625pt x 341.275pt>
+<Plots/folded.pdf, id=673, 569.12625pt x 341.275pt>
 File: Plots/folded.pdf Graphic file (type pdf)
  <use Plots/folded.pdf>
 Package pdftex.def Info: Plots/folded.pdf used on input line 559.
@@ -1514,10 +1506,10 @@ File: a2logo_white.pdf Graphic file (type pdf)
 <use a2logo_white.pdf>
 Package pdftex.def Info: a2logo_white.pdf used on input line 559.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
- [17
+ [16
 
  <./Plots/folded.pdf, page is rotated 90 degrees>]
-<Plots/WholeUnfold35.pdf, id=731, 569.12625pt x 386.44376pt>
+<Plots/WholeUnfold35.pdf, id=725, 569.12625pt x 386.44376pt>
 File: Plots/WholeUnfold35.pdf Graphic file (type pdf)
 
 <use Plots/WholeUnfold35.pdf>
@@ -1527,10 +1519,10 @@ File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
 Package pdftex.def Info: a2logo_white.pdf used on input line 569.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
- [18
+ [17
 
  <./Plots/WholeUnfold35.pdf, page is rotated 90 degrees>]
-<Plots/OmegaFlat.pdf, id=782, 569.05696pt x 340.79822pt>
+<Plots/OmegaFlat.pdf, id=776, 569.05696pt x 340.79822pt>
 File: Plots/OmegaFlat.pdf Graphic file (type pdf)
 
 <use Plots/OmegaFlat.pdf>
@@ -1540,10 +1532,10 @@ File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
 Package pdftex.def Info: a2logo_white.pdf used on input line 576.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
- [19
+ [18
 
  <./Plots/OmegaFlat.pdf>]
-<Plots/FlatMC.pdf, id=910, 569.12625pt x 331.2375pt>
+<Plots/FlatMC.pdf, id=903, 569.12625pt x 331.2375pt>
 File: Plots/FlatMC.pdf Graphic file (type pdf)
  <use Plots/FlatMC.pdf>
 Package pdftex.def Info: Plots/FlatMC.pdf used on input line 583.
@@ -1553,7 +1545,7 @@ File: a2logo_white.pdf Graphic file (type pdf)
 <use a2logo_white.pdf>
 Package pdftex.def Info: a2logo_white.pdf used on input line 583.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
- [20
+ [19
 
  <./Plots/FlatMC.pdf, page is rotated 90 degrees>]
 \tf@nav=\write7
@@ -1583,10 +1575,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 28816 strings out of 494852
- 576814 string characters out of 6177656
- 621174 words of memory out of 5000000
- 31529 multiletter control sequences out of 15000+600000
+ 28810 strings out of 494852
+ 576736 string characters out of 6177656
+ 621127 words of memory out of 5000000
+ 31525 multiletter control sequences out of 15000+600000
  17469 words of font info for 63 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  71i,16n,95p,10413b,907s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1609,10 +1601,10 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/symbols/msam10.pfb>
-Output written on demo.pdf (20 pages, 720842 bytes).
+Output written on demo.pdf (19 pages, 720043 bytes).
 PDF statistics:
- 1038 PDF objects out of 1200 (max. 8388607)
- 644 compressed objects within 7 object streams
- 42 named destinations out of 1000 (max. 500000)
+ 1032 PDF objects out of 1200 (max. 8388607)
+ 639 compressed objects within 7 object streams
+ 40 named destinations out of 1000 (max. 500000)
  131 words of extra memory for PDF output out of 10000 (max. 10000000)
 

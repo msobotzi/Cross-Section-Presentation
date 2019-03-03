@@ -32,8 +32,9 @@
 \usepackage{graphicx}
 \usepackage{amsmath}
 \usepackage{multicol}
-
-
+\usepackage{subfig}
+\usepackage{tikz}
+\usetikzlibrary{calc}
 
 
 %%%------------- ToDoList -------------%
@@ -449,7 +450,7 @@ The theme \emph{itself} is licensed under a
 
 \begin{figure}
 	\centering
-	\includegraphics[width=8.3cm]{Plots/2}
+	\includegraphics[width=8.3cm]{Plots/5}
 \end{figure}
 
 
@@ -500,23 +501,87 @@ The theme \emph{itself} is licensed under a
 \end{frame}
 \fi
 
-\begin{frame}{Proton for cos$(\theta_{\omega})=[-0.35,-0.25]$ (Dip)}
+\begin{frame}{Energy of Proton for cos$(\theta_{\omega})=[-0.45,-0.35]$ (Peak)}
+
+\begin{figure}
+	\hspace{0cm}  \vspace{-1cm}
+	\includegraphics[width=6cm]{Plots/6}
+\end{figure}
+
+
+\begin{figure}%
+	\centering
+	\subfloat{{\includegraphics[width=5.3cm]{Plots/EwoF045} }}%
+	\qquad
+	\subfloat{{\includegraphics[width=5.3cm]{Plots/EwF045} }}%
+	\caption{Energy of protons for $\textrm{cos}(\theta{\omega}) = [-0.45, -0.35] $. Red are MC and blue are beamtime data. Left side is just measured, right side is after KFit.}%
+	\label{fig:example}%
+	
+\end{figure}
+
+	
+\end{frame}
+
+\begin{frame}{$ \theta$ of Proton for cos$(\theta_{\omega})=[-0.45,-0.35]$ (Peak)}
+	
 	\begin{figure}
-		\includegraphics[width=8cm]{Plots/Data-vs-Mc/Cut-325/Proton.pdf}
-		\caption{Red: MC; Blue Beamtime Data; Protons for cos$(\theta_{\omega})=[-0.35,-0.25]$; Right Side are fitted data}
+		\hspace{0cm}  \vspace{-1cm}
+		\includegraphics[width=6cm]{Plots/6}
+	\end{figure}
+	
+	
+	\begin{figure}%
+		\centering
+		\subfloat{{\includegraphics[width=5.3cm]{Plots/ThetawoF045} }}%
+		\qquad
+		\subfloat{{\includegraphics[width=5.3cm]{Plots/ThetawF045} }}%
+		\caption{$\theta$ of protons for $\textrm{cos}(\theta{\omega}) = [-0.45, -0.35] $. Red are MC and blue are beamtime data. Left side is just measured, right side is after KFit.}%
+		\label{fig:example}%
 	\end{figure}
 	
 \end{frame}
 
 
 
-\begin{frame}{Proton for cos$(\theta_{\omega})=[-0.45,-0.35]$ (Peak)}
+\begin{frame}{Energy of Protons for cos$(\theta_{\omega})=[-0.35,-0.25]$ (Dip)}
+	
 	\begin{figure}
-		\includegraphics[width=8cm]{Plots/Data-vs-Mc/Cut-475/Proton.pdf}
-		\caption{Red: MC; Blue Beamtime Data; Protons for cos$(\theta_{\omega})=[-0.45,-0.35]$; Right Side are fitted data}
+		\hspace{0cm}  \vspace{-1cm}
+		\includegraphics[width=6cm]{Plots/7}
+	\end{figure}
+	
+	\begin{figure}%
+		\centering
+		\subfloat{{\includegraphics[width=5.3cm]{Plots/EwoF025} }}%
+		\qquad
+		\subfloat{{\includegraphics[width=5.3cm]{Plots/EwF025} }}%
+		\caption{Energy of protons for $\textrm{cos}(\theta{\omega}) = [-0.35, -0.25] $. Red are MC and blue are beamtime data. Left side is just measured, right side is after KFit. }%
+		\label{fig:example}%
 	\end{figure}
 	
 \end{frame}
+
+
+\begin{frame}{$ \theta$ of Proton for cos$(\theta_{\omega})=[-0.35,-0.25]$ (Dip)}
+	
+	\begin{figure}
+		\hspace{0cm}  \vspace{-1cm}
+		\includegraphics[width=6cm]{Plots/7}
+	\end{figure}
+	
+	
+	\begin{figure}%
+		\centering
+		\subfloat{{\includegraphics[width=5.3cm]{Plots/ThetawoF025} }}%
+		\qquad
+		\subfloat{{\includegraphics[width=5.3cm]{Plots/ThetawF025} }}%
+		\caption{$\theta$ of protons for $\textrm{cos}(\theta{\omega}) = [-0.35, -0.25] $. Red are MC and blue are beamtime data. Left side is just measured, right side is after KFit.}%
+		\label{fig:example}%
+	\end{figure}
+	
+\end{frame}
+
+
 
 \begin{frame}{Proton: $\theta_{fit}$ vs. $\theta_{gen}$}
 	\begin{figure}

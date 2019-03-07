@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.11.21)  6 MAR 2019 10:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.11.21)  7 MAR 2019 12:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1631,89 +1631,82 @@ Package pdftex.def Info: a2logo_white.pdf used on input line 635.
  [14
 
 ]
-File: a2logo_white.pdf Graphic file (type pdf)
- <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 644.
-(pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
-
-[15
-
-] <Plots/truth.pdf, id=470, 569.12625pt x 341.275pt>
+<Plots/truth.pdf, id=462, 569.12625pt x 341.275pt>
 File: Plots/truth.pdf Graphic file (type pdf)
  <use Plots/truth.pdf>
-Package pdftex.def Info: Plots/truth.pdf used on input line 658.
+Package pdftex.def Info: Plots/truth.pdf used on input line 661.
 (pdftex.def)             Requested size: 227.62204pt x 136.49194pt.
 File: a2logo_white.pdf Graphic file (type pdf)
 
 <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 658.
+Package pdftex.def Info: a2logo_white.pdf used on input line 661.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
- [16
+ [15
 
  <./Plots/truth.pdf, page is rotated 90 degrees>]
-<Plots/meas_truth.pdf, id=522, 569.12625pt x 341.275pt>
+<Plots/meas_truth.pdf, id=514, 569.12625pt x 341.275pt>
 File: Plots/meas_truth.pdf Graphic file (type pdf)
 
 <use Plots/meas_truth.pdf>
-Package pdftex.def Info: Plots/meas_truth.pdf used on input line 658.
+Package pdftex.def Info: Plots/meas_truth.pdf used on input line 661.
 (pdftex.def)             Requested size: 227.62204pt x 136.49194pt.
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 658.
+Package pdftex.def Info: a2logo_white.pdf used on input line 661.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
- [17
+ [16
 
  <./Plots/meas_truth.pdf, page is rotated 90 degrees>]
-<Plots/folded.pdf, id=573, 569.12625pt x 341.275pt>
+<Plots/folded.pdf, id=565, 569.12625pt x 341.275pt>
 File: Plots/folded.pdf Graphic file (type pdf)
  <use Plots/folded.pdf>
-Package pdftex.def Info: Plots/folded.pdf used on input line 658.
+Package pdftex.def Info: Plots/folded.pdf used on input line 661.
 (pdftex.def)             Requested size: 227.62204pt x 136.49194pt.
 File: a2logo_white.pdf Graphic file (type pdf)
 
 <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 658.
+Package pdftex.def Info: a2logo_white.pdf used on input line 661.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
- [18
+ [17
 
  <./Plots/folded.pdf, page is rotated 90 degrees>]
-<Plots/WholeUnfold35.pdf, id=624, 569.12625pt x 386.44376pt>
+<Plots/WholeUnfold35.pdf, id=616, 569.12625pt x 386.44376pt>
 File: Plots/WholeUnfold35.pdf Graphic file (type pdf)
 
 <use Plots/WholeUnfold35.pdf>
-Package pdftex.def Info: Plots/WholeUnfold35.pdf used on input line 668.
+Package pdftex.def Info: Plots/WholeUnfold35.pdf used on input line 671.
 (pdftex.def)             Requested size: 227.62204pt x 154.55707pt.
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 668.
+Package pdftex.def Info: a2logo_white.pdf used on input line 671.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
- [19
+ [18
 
  <./Plots/WholeUnfold35.pdf, page is rotated 90 degrees>]
-<Plots/OmegaFlat.pdf, id=676, 569.05696pt x 340.79822pt>
+<Plots/OmegaFlat.pdf, id=667, 569.05696pt x 340.79822pt>
 File: Plots/OmegaFlat.pdf Graphic file (type pdf)
 
 <use Plots/OmegaFlat.pdf>
-Package pdftex.def Info: Plots/OmegaFlat.pdf used on input line 675.
+Package pdftex.def Info: Plots/OmegaFlat.pdf used on input line 678.
 (pdftex.def)             Requested size: 227.62204pt x 136.31686pt.
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 675.
+Package pdftex.def Info: a2logo_white.pdf used on input line 678.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
- [20
+ [19
 
  <./Plots/OmegaFlat.pdf>]
-<Plots/FlatMC.pdf, id=803, 569.12625pt x 331.2375pt>
+<Plots/FlatMC.pdf, id=795, 569.12625pt x 331.2375pt>
 File: Plots/FlatMC.pdf Graphic file (type pdf)
  <use Plots/FlatMC.pdf>
-Package pdftex.def Info: Plots/FlatMC.pdf used on input line 682.
+Package pdftex.def Info: Plots/FlatMC.pdf used on input line 685.
 (pdftex.def)             Requested size: 227.62204pt x 132.47748pt.
 File: a2logo_white.pdf Graphic file (type pdf)
 
 <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 682.
+Package pdftex.def Info: a2logo_white.pdf used on input line 685.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
- [21
+ [20
 
  <./Plots/FlatMC.pdf, page is rotated 90 degrees>]
 \tf@nav=\write7
@@ -1725,12 +1718,12 @@ Package pdftex.def Info: a2logo_white.pdf used on input line 682.
 \tf@snm=\write9
 \openout9 = `demo.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 685.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 685.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 688.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 688.
 
 (./demo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 685.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 685.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 688.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 688.
 Package rerunfilecheck Info: File `demo.out' has not changed.
 (rerunfilecheck)             Checksum: C802890AABB3B874E09EA8952982286F;44.
 
@@ -1746,10 +1739,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 30131 strings out of 494852
- 600278 string characters out of 6177656
- 645517 words of memory out of 5000000
- 32817 multiletter control sequences out of 15000+600000
+ 30125 strings out of 494852
+ 600200 string characters out of 6177656
+ 645470 words of memory out of 5000000
+ 32813 multiletter control sequences out of 15000+600000
  18069 words of font info for 65 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  71i,16n,102p,10413b,905s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1760,22 +1753,21 @@ ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-s12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/symbols/msam10.pfb>
-Output written on demo.pdf (21 pages, 818476 bytes).
+ublic/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on demo.pdf (20 pages, 805831 bytes).
 PDF statistics:
- 932 PDF objects out of 1000 (max. 8388607)
- 587 compressed objects within 6 object streams
- 45 named destinations out of 1000 (max. 500000)
+ 921 PDF objects out of 1000 (max. 8388607)
+ 578 compressed objects within 6 object streams
+ 43 named destinations out of 1000 (max. 500000)
  176 words of extra memory for PDF output out of 10000 (max. 10000000)
 

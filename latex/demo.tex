@@ -34,7 +34,22 @@
 \usepackage{multicol}
 \usepackage{subfig}
 \usepackage{tikz}
+\usepackage{wrapfig}
 \usetikzlibrary{calc}
+\usepackage[absolute,overlay]{textpos}
+
+
+
+\pgfdeclarelayer{foreground}
+\pgfdeclarelayer{background}
+\pgfsetlayers{background,main,foreground}
+
+
+
+
+
+
+
 
 
 %%%------------- ToDoList -------------%
@@ -43,6 +58,7 @@
 \newcommand{\xmark}{\textcolor{A2red}{\ding{55}}}%
 \newcommand{\done}{\rlap{$\square$}{\raisebox{1.5pt}{\large\hspace{1pt}\cmark}}\hspace{-2.2pt}}
 \newcommand{\wontfix}{\rlap{$\square$}{\large\hspace{.5pt}\xmark}\hspace{-0pt}}
+\newcommand{\multlinecomment}[1]{\directlua{-- #1}}
 \makeatletter
 \newcommand{\mymakelabel}[1]{%
 	\begingroup
@@ -437,21 +453,27 @@ The theme \emph{itself} is licensed under a
 	\begin{equation*}
 \gamma  p \rightarrow \underset{ \hspace{1.05cm}\rotatebox[origin=c]{180}{$\Lsh$}{\underset{\hspace{0.5cm}\rotatebox[origin=c]{180}{$\Lsh$} \gamma \gamma 	}{\gamma \pi^0}}}{\omega} p 
 	\end{equation*}
-	Closer look at:
-	
-	\begin{multicols}{3}
-		
-		\begin{itemize}
-			
-			\item $\omega$
-			\item Bachelor Photon
-			\item $\pi^0$
-			\item $\gamma \gamma$
-			\item Proton
-			
-		\end{itemize}
-	\end{multicols}
 
+There is a 1:1 correlation between the polar angle of $p$ and $\omega$ for fixed $E(\gamma)$!
+
+
+
+%	Closer look at:
+
+%	\begin{multicols}{3}
+		
+%		\begin{itemize}
+			
+%			\item $\omega$
+%			\item $\pi^0$
+%			\item $\gamma \gamma$
+%			\item Proton
+			
+%		\end{itemize}
+%	\end{multicols}
+	
+
+ 
 \begin{figure}
 	\centering
 	\captionsetup{labelformat=empty}
@@ -462,9 +484,6 @@ The theme \emph{itself} is licensed under a
 
 
 \end{frame}
-
-
-
 \iffalse
 
 
@@ -509,22 +528,40 @@ The theme \emph{itself} is licensed under a
 
 \begin{frame}{Energy of Proton for cos$(\theta_{\omega})=[-0.45,-0.35]$ (Peak)}
 
-\begin{figure}
-	\hspace{0cm}  \vspace{-1cm}
-	\includegraphics[width=6cm]{Plots/6}
-\end{figure}
+	
+	\begin{figure}
+		\hspace{-5.9cm}  \vspace{-1cm}
+		\includegraphics[width=6cm]{Plots/6}
+	\end{figure}
+
+
+
+\begin{textblock*}{5.5cm}(7cm,1.5cm)
+	\small
+	Auch das ist wieder ein TEst. Und was passiert wenn dieser Text laenger wird
+	
+	Oder gar ein Absatz
+\end{textblock*}
+
 
 
 \begin{figure}%
-	\centering
+	\begin{center}
+
 	\subfloat{{\includegraphics[width=5.3cm]{Plots/EwoF045} }}%
 	\qquad
 	\subfloat{{\includegraphics[width=5.3cm]{Plots/EwF045} }}%
-	\captionsetup{labelformat=empty}
-	\caption{Energy of protons for $\textrm{cos}(\theta{\omega}) = [-0.45, -0.35] $. Red are MC and blue are beamtime data. Left side is just measured, right side is after KFit.}%
-	\label{fig:example}%
+	
+	\captionsetup{labelformat=empty}	
+	\caption{Energy of protons for $\textrm{cos}(\theta_{\omega}) = [-0.45, -0.35] $. Red are MC and blue are beamtime data. Left side is just measured, right side is after KFit.}%
+	
+\end{center}
 	
 \end{figure}
+
+
+
+
 
 	
 \end{frame}
@@ -543,8 +580,8 @@ The theme \emph{itself} is licensed under a
 		\qquad
 		\subfloat{{\includegraphics[width=5.3cm]{Plots/thetawF045} }}%
 		\captionsetup{labelformat=empty}
-		\caption{$\theta$ of protons for $\textrm{cos}(\theta{\omega}) = [-0.45, -0.35] $. Red are MC and blue are beamtime data. Left side is just measured, right side is after KFit.}%
-		\label{fig:example}%
+		\caption{$\theta$ of protons for $\textrm{cos}(\theta_{\omega}) = [-0.45, -0.35] $. Red are MC and blue are beamtime data. Left side is just measured, right side is after KFit.}%
+
 	\end{figure}
 	
 \end{frame}
@@ -564,7 +601,7 @@ The theme \emph{itself} is licensed under a
 		\qquad
 		\subfloat{{\includegraphics[width=5.3cm]{Plots/EwF025} }}%
 		\captionsetup{labelformat=empty}
-		\caption{Energy of protons for $\textrm{cos}(\theta{\omega}) = [-0.35, -0.25] $. Red are MC and blue are beamtime data. Left side is just measured, right side is after KFit. }%
+		\caption{Energy of protons for $\textrm{cos}(\theta_{\omega}) = [-0.35, -0.25] $. Red are MC and blue are beamtime data. Left side is just measured, right side is after KFit. }%
 		\label{fig:example}%
 	\end{figure}
 	
@@ -585,7 +622,7 @@ The theme \emph{itself} is licensed under a
 		\qquad
 		\subfloat{{\includegraphics[width=5.3cm]{Plots/thetawF025} }}%
 		\captionsetup{labelformat=empty}
-		\caption{$\theta$ of protons for $\textrm{cos}(\theta{\omega}) = [-0.35, -0.25] $. Red are MC and blue are beamtime data. Left side is just measured, right side is after KFit.}%
+		\caption{$\theta$ of protons for $\textrm{cos}(\theta_{\omega}) = [-0.35, -0.25] $. Red are MC and blue are beamtime data. Left side is just measured, right side is after KFit.}%
 		\label{fig:example}%
 	\end{figure}
 	
@@ -603,11 +640,11 @@ The theme \emph{itself} is licensed under a
 	
 	\begin{figure}%
 		\centering
-		\subfloat{{\includegraphics[width=5.3cm]{Plots/EwoF025} }}%
+		\subfloat{{\includegraphics[width=5.3cm]{Plots/pE+45} }}%
 		\qquad
-		\subfloat{{\includegraphics[width=5.3cm]{Plots/EwF025} }}%
+		\subfloat{{\includegraphics[width=5.3cm]{Plots/pE+45Fit} }}%
 		\captionsetup{labelformat=empty}
-		\caption{Energy of protons for $\textrm{cos}(\theta{\omega}) = [0.35, 0.45] $. Red are MC and blue are beamtime data. Left side is just measured, right side is after KFit. }%
+		\caption{Energy of protons for $\textrm{cos}(\theta_{\omega}) = [0.35, 0.45] $. Red are MC and blue are beamtime data. Left side is just measured, right side is after KFit. }%
 		\label{fig:example}%
 	\end{figure}
 	
@@ -616,21 +653,27 @@ The theme \emph{itself} is licensed under a
 
 \begin{frame}{$ \theta$ of Proton for cos$(\theta_{\omega})=[0.35,0.45]$ (Good)}
 	
-	\begin{figure}
-		\hspace{0cm}  \vspace{-1cm}
-		\includegraphics[width=6cm]{Plots/9}
-	\end{figure}
-	
+		\begin{figure}
+	\hspace{0cm}  \vspace{-1cm}
+	\includegraphics[width=6cm]{Plots/9}
+\end{figure}
+
 	
 	\begin{figure}%
 		\centering
-		\subfloat{{\includegraphics[width=5.3cm]{Plots/thetawoF025} }}%
+		\subfloat{{\includegraphics[width=5.3cm]{Plots/pTheta+45} }}%
 		\qquad
-		\subfloat{{\includegraphics[width=5.3cm]{Plots/thetawF025} }}%
+		\subfloat{{\includegraphics[width=5.3cm]{Plots/pTheta+45Fit} }}%
 		\captionsetup{labelformat=empty}
-		\caption{$\theta$ of protons for $\textrm{cos}(\theta{\omega}) = [0.35, 0.45] $. Red are MC and blue are beamtime data. Left side is just measured, right side is after KFit.}%
+		\caption{$\theta$ of protons for $\textrm{cos}(\theta_{\omega}) = [0.35, 0.45] $. Red are MC and blue are beamtime data. Left side is just measured, right side is after KFit.}%
 		\label{fig:example}%
 	\end{figure}
+	
+	
+	
+	
+	
+	
 	
 \end{frame}
 
@@ -747,7 +790,13 @@ $		\nu_i = \sum_{j=1}^{M} R_{ij} \mu_j$
 \end{frame}
 
 \begin{frame}{Conclusion}
-	
+	\begin{itemize}
+		\item Drop in the measured cross section at $\textrm{cos}(\theta_{\omega}) \approx -0.35$ is caused by an inefficiency at that region
+		\item Inefficiency is caused by the protons hitting the edge of the CB
+		\item There are differences between MC and Data; Even after KFit
+		\item The differences are too big to make the Unfolding work
+		
+	\end{itemize}
 	
 	
 \end{frame}

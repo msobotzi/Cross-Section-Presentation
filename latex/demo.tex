@@ -42,6 +42,8 @@
 \usepackage{wrapfig}
 \usetikzlibrary{calc}
 \usepackage[absolute,overlay]{textpos}
+\usepackage{appendixnumberbeamer}
+
 
 
 
@@ -817,6 +819,8 @@ $		\nu_i = \sum_{j=1}^{M} R_{ij} \mu_j$
 \fi
 
 \begin{frame}{Flat $\omega$; Folded MC Data}
+	
+	
 	\begin{figure}
 		
 		
@@ -826,6 +830,40 @@ $		\nu_i = \sum_{j=1}^{M} R_{ij} \mu_j$
 		\caption{Flat $\omega$ was used. MC fitted data were unfolded.}
 	\end{figure}
 \end{frame}
+
+\begin{frame}{Flat $\omega$; Folded MC Data}
+
+
+
+	
+	\begin{textblock*}{6.5cm}(0.6cm,1cm)
+		
+		\begin{figure} 
+		
+		\includegraphics[width=8cm]{Plots/FlatMC.pdf}
+		\captionsetup{labelformat=empty}
+		\caption{Flat $\omega$ was used. MC fitted data were unfolded.}
+\end{figure}	
+\end{textblock*}
+
+\begin{textblock*}{4.5cm}(8.05cm,1.7cm)
+	\begin{itemize}
+		
+		\item $\omega$ are generated with a flat phase space
+		\item A migration matrix is calculated 
+		\item This migration matrix is than used to unfold realistic MC 
+		\item Unfortunately, the unfolded cross section does not have the desired shape
+		
+		$\rightarrow$ Unfolding was unsuccessful
+	\end{itemize}
+\end{textblock*}
+
+
+\end{frame}
+
+
+
+
 
 \begin{frame}{Conclusion}
 	\begin{itemize}
@@ -839,6 +877,23 @@ $		\nu_i = \sum_{j=1}^{M} R_{ij} \mu_j$
 	\end{itemize}
 	
 	
+\end{frame}
+
+\appendix
+
+
+% And your backup slides here
+
+\begin{frame}{Backup}
+
+\begin{figure}
+	\includegraphics[width=8cm]{Plots/OmegaFlat}
+	\captionsetup{labelformat=empty}
+	\caption{Flat generated $\omega$}
+\end{figure}
+
+
+
 \end{frame}
 
 

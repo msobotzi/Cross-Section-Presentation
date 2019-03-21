@@ -2,6 +2,11 @@
 		%fleqn, % so that equations are left and not center aligned
 		10pt
 		]{beamer}
+	\usepackage{pgfpages}
+	
+	\setbeameroption{show notes on second screen}	
+		
+		
 %\documentclass[10pt,fleqn,handout]{beamer}
 \usetheme[ % choose your options, choose wisely
 	titleformat title= regular, % regular, smallcaps, allsmallcaps, allcaps
@@ -121,7 +126,7 @@
 \author{Martin Sobotzik}
 \institute[JGU Mainz]{
 	Institute for Nuclear Physics\\ 
-	Johannes Gutenberg University of Mainz\\ 
+	Johannes Gutenberg-University of Mainz\\ 
 }
 \newcommand{\logoheight}{1.0cm}
 \newcommand{\logospace}{\hspace*{2mm}}
@@ -421,7 +426,7 @@ The theme \emph{itself} is licensed under a
 		\centering
 		\includegraphics[width=8.3cm]{Plots/2}
 		\captionsetup{labelformat=empty}
-		\caption{Increased number of bins to 40; now there is still a dip at cos($\theta)=-0.3$ but also a peak at cos($\theta)=-0.5$}
+		\caption{Increased number of bins to 40; now there is still a dip at cos($\theta)=-0.3$ but also a peak at cos($\theta)=-0.4$}
 	\end{figure}
 \end{frame}
 
@@ -711,7 +716,7 @@ There is a 1:1 correlation between the polar angle of $p$ and $\omega$ for fixed
 \begin{frame}{Motivation}
 	\begin{itemize}
 		\item $\mu$ is the \textit{true} distribution given by nature
-		\item detector effects are then described by the response function \textit{R}. (inefficiencies, bias and smearing)
+		\item detector effects are then described by the migration matrix \textit{R}. (inefficiencies, bias and smearing)
 		\item This results in the distribution $\nu$. 
 	\end{itemize}
 	%\begin{equation*}
@@ -721,7 +726,7 @@ $		\nu_i = \sum_{j=1}^{M} R_{ij} \mu_j$
 	%\end{equation*}
 	
 	\begin{itemize}		
-		\item With infinite statistics, it would be possible to recover the original distribution by inverting the response matrix
+		\item With infinite statistics, it would be possible to recover the original distribution by inverting the migration matrix
 		
 	\end{itemize}
 
@@ -730,8 +735,38 @@ $		\nu_i = \sum_{j=1}^{M} R_{ij} \mu_j$
 \end{equation*}
 %Unfortunately there are statistical fluctuations between bins and since R washes out statistical fluctuations R^-1 cannpt distinguish between wildly fluctuating and smoot distributions.
 
+\begin{itemize}
+	\item Use numerical methods to invert the migration matrix
+\end{itemize}
+
 
 \end{frame}
+
+\begin{frame}{Unfold Example}
+
+
+
+
+	\begin{figure}
+		\vspace{0cm} 
+		
+		\includegraphics[width=8.0cm]{Plots/Tim}
+		\captionsetup{labelformat=empty}
+		\caption{Example for Unfolding. Blue is true distribution. Red is measured distribution. Black Dots are the unfolded distribution. Green is the fit of the unfolded distribution}
+	\end{figure}
+	
+	\note{In region of $cos \theta(\omega)_{gen} \approx -0.35$, see broader distribution of
+		$cos \theta(\omega)_{fit}$ -->  simple 1D efficiency correction may not
+		work well enough}
+	
+
+	
+	
+\end{frame}
+
+
+
+
 
 \iffalse
 
@@ -783,6 +818,9 @@ $		\nu_i = \sum_{j=1}^{M} R_{ij} \mu_j$
 
 \begin{frame}{Flat $\omega$; Folded MC Data}
 	\begin{figure}
+		
+		
+		
 		\includegraphics[width=8cm]{Plots/FlatMC.pdf}\\
 		\captionsetup{labelformat=empty}
 		\caption{Flat $\omega$ was used. MC fitted data were unfolded.}
@@ -791,9 +829,11 @@ $		\nu_i = \sum_{j=1}^{M} R_{ij} \mu_j$
 
 \begin{frame}{Conclusion}
 	\begin{itemize}
-		\item Drop in the measured cross section at $\textrm{cos}(\theta_{\omega}) \approx -0.35$ is caused by an inefficiency at that region
+		\item Drop in the measured cross section at $\textrm{cos}(\theta_{\omega}) \approx -0.35$ is caused by a drop in the efficiency at that region
 		\item Inefficiency is caused by the protons hitting the edge of the CB
-		\item There are differences between MC and Data; Even after KFit
+		
+		$\rightarrow$ They are not reconstructed properly
+		\item There are differences between MC and Data
 		\item The differences are too big to make the Unfolding work
 		
 	\end{itemize}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.11.21)  20 MAR 2019 17:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.11.21)  21 MAR 2019 14:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -650,19 +650,9 @@ fault.sty
 \beamer@dimb=\dimen187
 )
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/outer/beamerouterthemede
-fault.sty))) (./beamerthememetroazwei.sty
-Package: beamerthememetroazwei 2017/12/07 v1.2 metroazwei Beamer theme
-
-(/usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
-Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
-
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-\pgfopts@list@add@a@toks=\toks43
-\pgfopts@list@add@b@toks=\toks44
-)
-(./beamerinnerthememetroazwei.sty
-Package: beamerinnerthememetroazwei 2017/12/07 metroazwei inner theme
+fault.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfpages.sty
+Package: pgfpages 2011/01/05 ver 0.02
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
@@ -677,21 +667,48 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count156
 \calc@Cskip=\skip59
 )
+\pgf@logicalpages=\count157
+\pgf@firstshipout=\count158
+\pgf@lastshipout=\count159
+\pgf@currentshipout=\count160
+\pgf@cpn=\count161
+\pgf@shipoutnextto=\count162
+\pgfphysicalheight=\dimen190
+\pgfphysicalwidth=\dimen191
+\pgfpages@shipoutbox=\box53
+)
+\pgfpages@box@1=\box54
+\pgfpages@box@2=\box55
+
+(./beamerthememetroazwei.sty
+Package: beamerthememetroazwei 2017/12/07 v1.2 metroazwei Beamer theme
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+\pgfopts@list@add@a@toks=\toks43
+\pgfopts@list@add@b@toks=\toks44
+)
+(./beamerinnerthememetroazwei.sty
+Package: beamerinnerthememetroazwei 2017/12/07 metroazwei inner theme
+
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box53
+\pgfnodeparttextbox=\box56
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
 .sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen190
-\pgf@nodesepend=\dimen191
+\pgf@nodesepstart=\dimen192
+\pgf@nodesepend=\dimen193
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
 .sty
@@ -703,8 +720,8 @@ Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen192
-\pgffor@skip=\dimen193
+\pgffor@iter=\dimen194
+\pgffor@skip=\dimen195
 \pgffor@stack=\toks45
 \pgffor@toks=\toks46
 ))
@@ -714,31 +731,31 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
 .code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count157
-\pgfplotmarksize=\dimen194
+\pgf@plot@mark@count=\count163
+\pgfplotmarksize=\dimen196
 )
-\tikz@lastx=\dimen195
-\tikz@lasty=\dimen196
-\tikz@lastxsaved=\dimen197
-\tikz@lastysaved=\dimen198
-\tikzleveldistance=\dimen199
-\tikzsiblingdistance=\dimen256
-\tikz@figbox=\box54
-\tikz@figbox@bg=\box55
-\tikz@tempbox=\box56
-\tikz@tempbox@bg=\box57
-\tikztreelevel=\count158
-\tikznumberofchildren=\count159
-\tikznumberofcurrentchild=\count160
-\tikz@fig@count=\count161
+\tikz@lastx=\dimen197
+\tikz@lasty=\dimen198
+\tikz@lastxsaved=\dimen199
+\tikz@lastysaved=\dimen256
+\tikzleveldistance=\dimen257
+\tikzsiblingdistance=\dimen258
+\tikz@figbox=\box57
+\tikz@figbox@bg=\box58
+\tikz@tempbox=\box59
+\tikz@tempbox@bg=\box60
+\tikztreelevel=\count164
+\tikznumberofchildren=\count165
+\tikznumberofcurrentchild=\count166
+\tikz@fig@count=\count167
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count162
-\pgfmatrixcurrentcolumn=\count163
-\pgf@matrix@numberofcolumns=\count164
+\pgfmatrixcurrentrow=\count168
+\pgfmatrixcurrentcolumn=\count169
+\pgf@matrix@numberofcolumns=\count170
 )
-\tikz@expandcount=\count165
+\tikz@expandcount=\count171
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
@@ -776,28 +793,28 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks47
 \XKV@tempa@toks=\toks48
 )
-\XKV@depth=\count166
+\XKV@depth=\count172
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2016/04/27 v1.618033 publication quality tables
-\heavyrulewidth=\dimen257
-\lightrulewidth=\dimen258
-\cmidrulewidth=\dimen259
-\belowrulesep=\dimen260
-\belowbottomsep=\dimen261
-\aboverulesep=\dimen262
-\abovetopsep=\dimen263
-\cmidrulesep=\dimen264
-\cmidrulekern=\dimen265
-\defaultaddspace=\dimen266
-\@cmidla=\count167
-\@cmidlb=\count168
-\@aboverulesep=\dimen267
-\@belowrulesep=\dimen268
-\@thisruleclass=\count169
-\@lastruleclass=\count170
-\@thisrulewidth=\dimen269
+\heavyrulewidth=\dimen259
+\lightrulewidth=\dimen260
+\cmidrulewidth=\dimen261
+\belowrulesep=\dimen262
+\belowbottomsep=\dimen263
+\aboverulesep=\dimen264
+\abovetopsep=\dimen265
+\cmidrulesep=\dimen266
+\cmidrulekern=\dimen267
+\defaultaddspace=\dimen268
+\@cmidla=\count173
+\@cmidlb=\count174
+\@aboverulesep=\dimen269
+\@belowrulesep=\dimen270
+\@thisruleclass=\count175
+\@lastruleclass=\count176
+\@thisrulewidth=\dimen271
 )
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
 Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
@@ -828,31 +845,31 @@ L3 Module: l3tl 2016/08/19 v6692 L3 Token lists
 L3 Module: l3str 2016/08/19 v6692 L3 Strings
 L3 Module: l3seq 2016/08/19 v6685 L3 Sequences and stacks
 L3 Module: l3int 2016/09/07 v6700 L3 Integers
-\c_max_int=\count171
-\l_tmpa_int=\count172
-\l_tmpb_int=\count173
-\g_tmpa_int=\count174
-\g_tmpb_int=\count175
+\c_max_int=\count177
+\l_tmpa_int=\count178
+\l_tmpb_int=\count179
+\g_tmpa_int=\count180
+\g_tmpb_int=\count181
 L3 Module: l3quark 2016/08/19 v6685 L3 Quarks
 L3 Module: l3prg 2016/08/18 v6679 L3 Control structures
-\g__prg_map_int=\count176
+\g__prg_map_int=\count182
 L3 Module: l3clist 2016/08/19 v6685 L3 Comma separated lists
 L3 Module: l3token 2016/09/01 v6695 L3 Experimental token manipulation
 L3 Module: l3prop 2016/08/19 v6685 L3 Property lists
 L3 Module: l3msg 2016/08/19 v6691 L3 Messages
 L3 Module: l3file 2016/08/19 v6685 L3 File and I/O operations
-\l_iow_line_count_int=\count177
-\l__iow_target_count_int=\count178
-\l__iow_current_line_int=\count179
-\l__iow_current_word_int=\count180
-\l__iow_current_indentation_int=\count181
+\l_iow_line_count_int=\count183
+\l__iow_target_count_int=\count184
+\l__iow_current_line_int=\count185
+\l__iow_current_word_int=\count186
+\l__iow_current_indentation_int=\count187
 L3 Module: l3skip 2016/08/19 v6692 L3 Dimensions and skips
-\c_zero_dim=\dimen270
-\c_max_dim=\dimen271
-\l_tmpa_dim=\dimen272
-\l_tmpb_dim=\dimen273
-\g_tmpa_dim=\dimen274
-\g_tmpb_dim=\dimen275
+\c_zero_dim=\dimen272
+\c_max_dim=\dimen273
+\l_tmpa_dim=\dimen274
+\l_tmpb_dim=\dimen275
+\g_tmpa_dim=\dimen276
+\g_tmpb_dim=\dimen277
 \c_zero_skip=\skip69
 \c_max_skip=\skip70
 \l_tmpa_skip=\skip71
@@ -866,75 +883,75 @@ L3 Module: l3skip 2016/08/19 v6692 L3 Dimensions and skips
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
 L3 Module: l3keys 2016/09/21 v6711 L3 Key-value interfaces
-\l_keys_choice_int=\count182
+\l_keys_choice_int=\count188
 L3 Module: l3fp 2016/11/21 v6761 L3 Floating points
-\c__fp_leading_shift_int=\count183
-\c__fp_middle_shift_int=\count184
-\c__fp_trailing_shift_int=\count185
-\c__fp_big_leading_shift_int=\count186
-\c__fp_big_middle_shift_int=\count187
-\c__fp_big_trailing_shift_int=\count188
-\c__fp_Bigg_leading_shift_int=\count189
-\c__fp_Bigg_middle_shift_int=\count190
-\c__fp_Bigg_trailing_shift_int=\count191
+\c__fp_leading_shift_int=\count189
+\c__fp_middle_shift_int=\count190
+\c__fp_trailing_shift_int=\count191
+\c__fp_big_leading_shift_int=\count192
+\c__fp_big_middle_shift_int=\count193
+\c__fp_big_trailing_shift_int=\count194
+\c__fp_Bigg_leading_shift_int=\count195
+\c__fp_Bigg_middle_shift_int=\count196
+\c__fp_Bigg_trailing_shift_int=\count197
 L3 Module: l3box 2016/08/19 v6685 L3 Experimental boxes
-\c_empty_box=\box58
-\l_tmpa_box=\box59
-\l_tmpb_box=\box60
-\g_tmpa_box=\box61
-\g_tmpb_box=\box62
+\c_empty_box=\box61
+\l_tmpa_box=\box62
+\l_tmpb_box=\box63
+\g_tmpa_box=\box64
+\g_tmpb_box=\box65
 L3 Module: l3coffins 2016/08/19 v6685 L3 Coffin code layer
-\l__coffin_internal_box=\box63
-\l__coffin_internal_dim=\dimen276
-\l__coffin_offset_x_dim=\dimen277
-\l__coffin_offset_y_dim=\dimen278
-\l__coffin_x_dim=\dimen279
-\l__coffin_y_dim=\dimen280
-\l__coffin_x_prime_dim=\dimen281
-\l__coffin_y_prime_dim=\dimen282
-\c_empty_coffin=\box64
-\l__coffin_aligned_coffin=\box65
-\l__coffin_aligned_internal_coffin=\box66
-\l_tmpa_coffin=\box67
-\l_tmpb_coffin=\box68
-\l__coffin_display_coffin=\box69
-\l__coffin_display_coord_coffin=\box70
-\l__coffin_display_pole_coffin=\box71
-\l__coffin_display_offset_dim=\dimen283
-\l__coffin_display_x_dim=\dimen284
-\l__coffin_display_y_dim=\dimen285
+\l__coffin_internal_box=\box66
+\l__coffin_internal_dim=\dimen278
+\l__coffin_offset_x_dim=\dimen279
+\l__coffin_offset_y_dim=\dimen280
+\l__coffin_x_dim=\dimen281
+\l__coffin_y_dim=\dimen282
+\l__coffin_x_prime_dim=\dimen283
+\l__coffin_y_prime_dim=\dimen284
+\c_empty_coffin=\box67
+\l__coffin_aligned_coffin=\box68
+\l__coffin_aligned_internal_coffin=\box69
+\l_tmpa_coffin=\box70
+\l_tmpb_coffin=\box71
+\l__coffin_display_coffin=\box72
+\l__coffin_display_coord_coffin=\box73
+\l__coffin_display_pole_coffin=\box74
+\l__coffin_display_offset_dim=\dimen285
+\l__coffin_display_x_dim=\dimen286
+\l__coffin_display_y_dim=\dimen287
 L3 Module: l3color 2016/06/13 v6596 L3 Experimental color support
 L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
 L3 Module: l3candidates 2016/08/19 v6688 L3 Experimental additions to l3kernel
-\l__box_top_dim=\dimen286
-\l__box_bottom_dim=\dimen287
-\l__box_left_dim=\dimen288
-\l__box_right_dim=\dimen289
-\l__box_top_new_dim=\dimen290
-\l__box_bottom_new_dim=\dimen291
-\l__box_left_new_dim=\dimen292
-\l__box_right_new_dim=\dimen293
-\l__box_internal_box=\box72
-\l__coffin_bounding_shift_dim=\dimen294
-\l__coffin_left_corner_dim=\dimen295
-\l__coffin_right_corner_dim=\dimen296
-\l__coffin_bottom_corner_dim=\dimen297
-\l__coffin_top_corner_dim=\dimen298
-\l__coffin_scaled_total_height_dim=\dimen299
-\l__coffin_scaled_width_dim=\dimen300
+\l__box_top_dim=\dimen288
+\l__box_bottom_dim=\dimen289
+\l__box_left_dim=\dimen290
+\l__box_right_dim=\dimen291
+\l__box_top_new_dim=\dimen292
+\l__box_bottom_new_dim=\dimen293
+\l__box_left_new_dim=\dimen294
+\l__box_right_new_dim=\dimen295
+\l__box_internal_box=\box75
+\l__coffin_bounding_shift_dim=\dimen296
+\l__coffin_left_corner_dim=\dimen297
+\l__coffin_right_corner_dim=\dimen298
+\l__coffin_bottom_corner_dim=\dimen299
+\l__coffin_top_corner_dim=\dimen300
+\l__coffin_scaled_total_height_dim=\dimen301
+\l__coffin_scaled_width_dim=\dimen302
 L3 Module: l3luatex 2016/08/18 v6679 L3 Experimental LuaTeX-specific functions
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
 File: l3pdfmode.def 2016/08/18 v6679 L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count192
-\l__driver_tmp_box=\box73
+\l__driver_color_stack_int=\count198
+\l__driver_tmp_box=\box76
 ))
 Package: xparse 2016/11/21 v6760 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count193
-\l__xparse_m_args_int=\count194
-\l__xparse_mandatory_args_int=\count195
-\l__xparse_processor_int=\count196
-\l__xparse_v_nesting_int=\count197
+\l__xparse_current_arg_int=\count199
+\l__xparse_m_args_int=\count266
+\l__xparse_mandatory_args_int=\count267
+\l__xparse_processor_int=\count268
+\l__xparse_v_nesting_int=\count269
 )
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
 Package: zref-abspage 2016/05/21 v2.26 Module abspage for zref (HO)
@@ -945,14 +962,14 @@ Package zref Info: New property list: main on input line 759.
 Package zref Info: New property: default on input line 760.
 Package zref Info: New property: page on input line 761.
 )
-\c@abspage=\count198
+\c@abspage=\count270
 Package zref Info: New property: abspage on input line 62.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
 \mdf@templength=\skip75
-\c@mdf@globalstyle@cnt=\count199
+\c@mdf@globalstyle@cnt=\count271
 \mdf@skipabove@length=\skip76
 \mdf@skipbelow@length=\skip77
 \mdf@leftmargin@length=\skip78
@@ -996,11 +1013,11 @@ Package: needspace 2010/09/12 v1.3d reserve vertical space
 (/usr/share/texlive/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
 File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 )
-\mdf@frametitlebox=\box74
-\mdf@footnotebox=\box75
-\mdf@splitbox@one=\box76
-\mdf@splitbox@two=\box77
-\mdf@splitbox@save=\box78
+\mdf@frametitlebox=\box77
+\mdf@footnotebox=\box78
+\mdf@splitbox@one=\box79
+\mdf@splitbox@two=\box80
+\mdf@splitbox@save=\box81
 \mdfsplitboxwidth=\skip115
 \mdfsplitboxtotalwidth=\skip116
 \mdfsplitboxheight=\skip117
@@ -1028,7 +1045,7 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \mdf@horizontalspaceofbox=\skip139
 \mdfsubtitleheight=\skip140
 \mdfsubsubtitleheight=\skip141
-\c@mdfcountframes=\count266
+\c@mdfcountframes=\count272
 
 ****** mdframed patching \endmdf@trivlist
 
@@ -1044,10 +1061,10 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 . 
 . Defining command \mdtheorem with sig. ' O{} m o m o ' on line 701.
 .................................................
-\mdf@envdepth=\count267
-\c@mdf@env@i=\count268
-\c@mdf@env@ii=\count269
-\c@mdf@zref@counter=\count270
+\mdf@envdepth=\count273
+\c@mdf@env@i=\count274
+\c@mdf@env@ii=\count275
+\c@mdf@zref@counter=\count276
 Package zref Info: New property: mdf@pagevalue on input line 895.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
@@ -1056,30 +1073,27 @@ Package zref Info: New property: mdf@pagevalue on input line 895.
 Excluding comment 'comment')
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
-\c@tracingmulticols=\count271
-\mult@box=\box79
-\multicol@leftmargin=\dimen301
-\c@unbalance=\count272
-\c@collectmore=\count273
-\doublecol@number=\count274
-\multicoltolerance=\count275
-\multicolpretolerance=\count276
-\full@width=\dimen302
-\page@free=\dimen303
-\premulticols=\dimen304
-\postmulticols=\dimen305
+\c@tracingmulticols=\count277
+\mult@box=\box82
+\multicol@leftmargin=\dimen303
+\c@unbalance=\count278
+\c@collectmore=\count279
+\doublecol@number=\count280
+\multicoltolerance=\count281
+\multicolpretolerance=\count282
+\full@width=\dimen304
+\page@free=\dimen305
+\premulticols=\dimen306
+\postmulticols=\dimen307
 \multicolsep=\skip142
 \multicolbaselineskip=\skip143
-\partial@page=\box80
-\last@line=\box81
-\maxbalancingoverflow=\dimen306
-\mult@rightbox=\box82
-\mult@grightbox=\box83
-\mult@gfirstbox=\box84
-\mult@firstbox=\box85
-\@tempa=\box86
-\@tempa=\box87
-\@tempa=\box88
+\partial@page=\box83
+\last@line=\box84
+\maxbalancingoverflow=\dimen308
+\mult@rightbox=\box85
+\mult@grightbox=\box86
+\mult@gfirstbox=\box87
+\mult@firstbox=\box88
 \@tempa=\box89
 \@tempa=\box90
 \@tempa=\box91
@@ -1094,14 +1108,17 @@ Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
 \@tempa=\box100
 \@tempa=\box101
 \@tempa=\box102
-\c@columnbadness=\count277
-\c@finalcolumnbadness=\count278
-\last@try=\dimen307
-\multicolovershoot=\dimen308
-\multicolundershoot=\dimen309
-\mult@nat@firstbox=\box103
-\colbreak@box=\box104
-\mc@col@check@num=\count279
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\c@columnbadness=\count283
+\c@finalcolumnbadness=\count284
+\last@try=\dimen309
+\multicolovershoot=\dimen310
+\multicolundershoot=\dimen311
+\mult@nat@firstbox=\box106
+\colbreak@box=\box107
+\mc@col@check@num=\count285
 )
 (/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
@@ -1112,38 +1129,38 @@ Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen310
-\captionmargin@=\dimen311
-\captionwidth=\dimen312
-\caption@tempdima=\dimen313
-\caption@indent=\dimen314
-\caption@parindent=\dimen315
-\caption@hangindent=\dimen316
+\captionmargin=\dimen312
+\captionmargin@=\dimen313
+\captionwidth=\dimen314
+\caption@tempdima=\dimen315
+\caption@indent=\dimen316
+\caption@parindent=\dimen317
+\caption@hangindent=\dimen318
 )
-\c@ContinuedFloat=\count280
+\c@ContinuedFloat=\count286
 Package caption Info: beamer document class.
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
 )
-\c@KVtest=\count281
+\c@KVtest=\count287
 \sf@farskip=\skip144
-\sf@captopadj=\dimen317
+\sf@captopadj=\dimen319
 \sf@capskip=\skip145
 \sf@nearskip=\skip146
-\c@subfigure=\count282
-\c@subfigure@save=\count283
-\c@depth=\count284
-\c@subtable=\count285
-\c@subtable@save=\count286
+\c@subfigure=\count288
+\c@subfigure@save=\count289
+\c@depth=\count290
+\c@subtable=\count291
+\c@subtable@save=\count292
 \sf@top=\skip147
 \sf@bottom=\skip148
 )
 (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen318
-\WF@size=\dimen319
-\c@WF@wrappedlines=\count287
-\WF@box=\box105
+\wrapoverhang=\dimen320
+\WF@size=\dimen321
+\c@WF@wrappedlines=\count293
+\WF@box=\box108
 \WF@everypar=\toks49
 Package: wrapfig 2003/01/31  v 3.6
 )
@@ -1155,24 +1172,24 @@ File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.9)
 Package: textpos 2016/06/07 v1.8
 
 Package: textpos 2016/06/07 1.8, absolute positioning of text on the page
-\TP@textbox=\box106
-\TP@holdbox=\box107
-\TPHorizModule=\dimen320
-\TPVertModule=\dimen321
-\TP@margin=\dimen322
-\TP@absmargin=\dimen323
+\TP@textbox=\box109
+\TP@holdbox=\box110
+\TPHorizModule=\dimen322
+\TPVertModule=\dimen323
+\TP@margin=\dimen324
+\TP@absmargin=\dimen325
 Grid set 16 x 16 = 22.7622pt x 17.07166pt
-\TPboxrulesize=\dimen324
-\TP@ox=\dimen325
-\TP@oy=\dimen326
+\TPboxrulesize=\dimen326
+\TP@ox=\dimen327
+\TP@oy=\dimen328
 \TP@tbargs=\toks50
-\TP@prevdepth=\dimen327
+\TP@prevdepth=\dimen329
 TextBlockOrigin set to 0pt x 0pt
 )
-\pgf@layerbox@foreground=\box108
-\pgf@layerboxsaved@foreground=\box109
-\pgf@layerbox@background=\box110
-\pgf@layerboxsaved@background=\box111
+\pgf@layerbox@foreground=\box111
+\pgf@layerboxsaved@foreground=\box112
+\pgf@layerbox@background=\box113
+\pgf@layerboxsaved@background=\box114
  (./demo.aux
 
 LaTeX Warning: Label `fig:example' multiply defined.
@@ -1186,20 +1203,20 @@ LaTeX Warning: Label `fig:example' multiply defined.
 )
 \openout1 = `demo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1237,16 +1254,16 @@ LaTeX Font Info:    ... okay on input line 133.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count288
-\scratchdimen=\dimen328
-\scratchbox=\box112
-\nofMPsegments=\count289
-\nofMParguments=\count290
+\scratchcounter=\count294
+\scratchdimen=\dimen330
+\scratchbox=\box115
+\nofMPsegments=\count295
+\nofMParguments=\count296
 \everyMPshowfont=\toks51
-\MPscratchCnt=\count291
-\MPscratchDim=\dimen329
-\MPnumerator=\count292
-\makeMPintoPDFobject=\count293
+\MPscratchCnt=\count297
+\MPscratchDim=\dimen331
+\MPnumerator=\count298
+\makeMPintoPDFobject=\count299
 \everyMPtoPDFconversion=\toks52
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1266,8 +1283,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box113
-Package hyperref Info: Link coloring OFF on input line 133.
+\AtBeginShipoutBox=\box116
+Package hyperref Info: Link coloring OFF on input line 138.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1275,68 +1292,68 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count294
+\c@section@level=\count300
 )
-LaTeX Info: Redefining \ref on input line 133.
-LaTeX Info: Redefining \pageref on input line 133.
-LaTeX Info: Redefining \nameref on input line 133.
+LaTeX Info: Redefining \ref on input line 138.
+LaTeX Info: Redefining \pageref on input line 138.
+LaTeX Info: Redefining \nameref on input line 138.
 
 (./demo.out) (./demo.out)
 \@outlinefile=\write6
 \openout6 = `demo.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 133.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 138.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 133.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 138.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 133.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 133.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 138.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 133.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 133.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 133.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 138.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 133.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 133.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 133.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 138.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 133.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 133.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 133.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 138.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 133.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 133.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 138.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 133.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 138.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 133.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 133.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 133.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 133.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 133.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 133.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 133.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 138.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 138.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
-33.
+38.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-133.
+138.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 133.
+ut line 138.
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
 ic-dictionary/translator-basic-dictionary-English.dict
@@ -1362,395 +1379,666 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 133.
+LaTeX Info: Redefining \includegraphics on input line 138.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
  (./demo.nav)
-LaTeX Font Info:    Try loading font information for U+msa on input line 133.
+LaTeX Font Info:    Try loading font information for U+msa on input line 138.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 133.
+LaTeX Font Info:    Try loading font information for U+msb on input line 138.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 133.
+line 138.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 135--135
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
 
  []
 
 <a2logo_light.pdf, id=18, 803.0pt x 527.28194pt>
 File: a2logo_light.pdf Graphic file (type pdf)
  <use a2logo_light.pdf>
-Package pdftex.def Info: a2logo_light.pdf used on input line 135.
+Package pdftex.def Info: a2logo_light.pdf used on input line 140.
 (pdftex.def)             Requested size: 43.32582pt x 28.45274pt.
 
-Overfull \vbox (38.45276pt too high) detected at line 135
+Overfull \vbox (38.45276pt too high) detected at line 140
  []
 
 
-Overfull \vbox (13.79993pt too high) detected at line 135
+Overfull \vbox (13.79993pt too high) detected at line 140
  []
 
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./a2logo_light.pdf>]
-Excluding 'comment' comment. <Plots/1.jpg, id=36, 602.25pt x 301.125pt>
+Excluding 'comment' comment. <Plots/1.jpg, id=20, 602.25pt x 301.125pt>
 File: Plots/1.jpg Graphic file (type jpg)
 
 <use Plots/1.jpg>
-Package pdftex.def Info: Plots/1.jpg used on input line 416.
+Package pdftex.def Info: Plots/1.jpg used on input line 421.
 (pdftex.def)             Requested size: 236.15796pt x 118.08154pt.
- <a2logo_white.pdf, id=37, 729.9996pt x 480.96101pt>
+ <a2logo_white.pdf, id=21, 729.9996pt x 480.96101pt>
 File: a2logo_white.pdf Graphic file (type pdf)
 
 <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 416.
+Package pdftex.def Info: a2logo_white.pdf used on input line 421.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 416.
+(Font)              size <5> substituted on input line 421.
 
 [2
 
- <./a2logo_white.pdf> <./Plots/1.jpg>]
-<Plots/2.jpg, id=49, 602.25pt x 301.125pt>
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}pdfTeX warning (ext4): desti
+nation with the same identifier (name{Navigation1}) has been already used, dupl
+icate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.421 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.1}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.421 \end{frame}
+                 
+
+ <./a2logo_light.pdf>]
+<Plots/2.jpg, id=42, 602.25pt x 301.125pt>
 File: Plots/2.jpg Graphic file (type jpg)
  <use Plots/2.jpg>
-Package pdftex.def Info: Plots/2.jpg used on input line 426.
+Package pdftex.def Info: Plots/2.jpg used on input line 431.
 (pdftex.def)             Requested size: 236.15796pt x 118.08154pt.
 File: a2logo_white.pdf Graphic file (type pdf)
 
 <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 426.
+Package pdftex.def Info: a2logo_white.pdf used on input line 431.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [3
 
- <./Plots/2.jpg>]
-<Plots/3.jpg, id=56, 602.25pt x 301.125pt>
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation2})
+ has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.431 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.2}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.431 \end{frame}
+                 
+
+ <./a2logo_white.pdf> <./Plots/1.jpg>]
+<Plots/3.jpg, id=54, 602.25pt x 301.125pt>
 File: Plots/3.jpg Graphic file (type jpg)
  <use Plots/3.jpg>
-Package pdftex.def Info: Plots/3.jpg used on input line 441.
+Package pdftex.def Info: Plots/3.jpg used on input line 446.
 (pdftex.def)             Requested size: 236.15796pt x 118.08154pt.
 File: a2logo_white.pdf Graphic file (type pdf)
 
 <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 441.
+Package pdftex.def Info: a2logo_white.pdf used on input line 446.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [4
 
- <./Plots/3.jpg>]
-<Plots/4.jpg, id=63, 602.25pt x 602.25pt>
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation3})
+ has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.446 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.3}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.446 \end{frame}
+                 
+
+ <./Plots/2.jpg>] <Plots/4.jpg, id=62, 602.25pt x 602.25pt>
 File: Plots/4.jpg Graphic file (type jpg)
- <use Plots/4.jpg>
-Package pdftex.def Info: Plots/4.jpg used on input line 450.
+
+<use Plots/4.jpg>
+Package pdftex.def Info: Plots/4.jpg used on input line 455.
 (pdftex.def)             Requested size: 236.15796pt x 236.16309pt.
 File: a2logo_white.pdf Graphic file (type pdf)
-
-<use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 450.
+ <use a2logo_white.pdf>
+Package pdftex.def Info: a2logo_white.pdf used on input line 455.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
 
-Overfull \vbox (49.74408pt too high) detected at line 450
+Overfull \vbox (49.74408pt too high) detected at line 455
  []
 
 [5
 
- <./Plots/4.jpg>] <Plots/5.jpg, id=70, 602.25pt x 301.125pt>
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation4})
+ has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.455 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.4}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.455 \end{frame}
+                 
+
+ <./Plots/3.jpg>] <Plots/5.jpg, id=70, 602.25pt x 301.125pt>
 File: Plots/5.jpg Graphic file (type jpg)
 
 <use Plots/5.jpg>
-Package pdftex.def Info: Plots/5.jpg used on input line 486.
+Package pdftex.def Info: Plots/5.jpg used on input line 491.
 (pdftex.def)             Requested size: 236.15796pt x 118.08154pt.
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 486.
+Package pdftex.def Info: a2logo_white.pdf used on input line 491.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [6
 
- <./Plots/5.jpg>]
-<Plots/8.jpg, id=83, 602.25pt x 301.125pt>
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation5})
+ has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.491 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.5}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.491 \end{frame}
+                 
+
+ <./Plots/4.jpg>] <Plots/8.jpg, id=78, 602.25pt x 301.125pt>
 File: Plots/8.jpg Graphic file (type jpg)
- <use Plots/8.jpg>
-Package pdftex.def Info: Plots/8.jpg used on input line 486.
+
+<use Plots/8.jpg>
+Package pdftex.def Info: Plots/8.jpg used on input line 491.
 (pdftex.def)             Requested size: 236.15796pt x 118.08154pt.
 File: a2logo_white.pdf Graphic file (type pdf)
-
-<use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 486.
+ <use a2logo_white.pdf>
+Package pdftex.def Info: a2logo_white.pdf used on input line 491.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [7
 
- <./Plots/8.jpg>]
-<Plots/6.jpg, id=91, 602.25pt x 301.125pt>
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation6})
+ has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.491 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.6}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.491 \end{frame}
+                 
+
+ <./Plots/5.jpg>] <Plots/6.jpg, id=92, 602.25pt x 301.125pt>
 File: Plots/6.jpg Graphic file (type jpg)
- <use Plots/6.jpg>
-Package pdftex.def Info: Plots/6.jpg used on input line 567.
+
+<use Plots/6.jpg>
+Package pdftex.def Info: Plots/6.jpg used on input line 572.
 (pdftex.def)             Requested size: 170.71652pt x 85.35744pt.
-
-<Plots/EwoF045.png, id=92, 769.87625pt x 536.0025pt>
+ <Plots/EwoF045.png, id=93, 769.87625pt x 536.0025pt>
 File: Plots/EwoF045.png Graphic file (type png)
- <use Plots/EwoF045.png>
-Package pdftex.def Info: Plots/EwoF045.png used on input line 567.
-(pdftex.def)             Requested size: 150.79968pt x 104.99034pt.
 
-<Plots/EwF045.png, id=93, 769.87625pt x 536.0025pt>
+<use Plots/EwoF045.png>
+Package pdftex.def Info: Plots/EwoF045.png used on input line 572.
+(pdftex.def)             Requested size: 150.79968pt x 104.99034pt.
+ <Plots/EwF045.png, id=94, 769.87625pt x 536.0025pt>
 File: Plots/EwF045.png Graphic file (type png)
- <use Plots/EwF045.png>
-Package pdftex.def Info: Plots/EwF045.png used on input line 567.
+
+<use Plots/EwF045.png>
+Package pdftex.def Info: Plots/EwF045.png used on input line 572.
 (pdftex.def)             Requested size: 150.79968pt x 104.99034pt.
 File: a2logo_white.pdf Graphic file (type pdf)
-
-<use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 567.
+ <use a2logo_white.pdf>
+Package pdftex.def Info: a2logo_white.pdf used on input line 572.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
 
-Overfull \vbox (15.9714pt too high) detected at line 567
+Overfull \vbox (15.9714pt too high) detected at line 572
  []
 
 [8
 
- <./Plots/6.jpg> <./Plots/EwoF045.png> <./Plots/EwF045.png>]
-File: Plots/6.jpg Graphic file (type jpg)
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation7})
+ has been already used, duplicate ignored
 
-<use Plots/6.jpg>
-Package pdftex.def Info: Plots/6.jpg used on input line 587.
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.572 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.7}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.572 \end{frame}
+                 
+
+ <./Plots/8.jpg>]
+File: Plots/6.jpg Graphic file (type jpg)
+ <use Plots/6.jpg>
+Package pdftex.def Info: Plots/6.jpg used on input line 592.
 (pdftex.def)             Requested size: 170.71652pt x 85.35744pt.
- <Plots/thetawoF045.png, id=105, 769.87625pt x 536.0025pt>
+
+<Plots/thetawoF045.png, id=103, 769.87625pt x 536.0025pt>
 File: Plots/thetawoF045.png Graphic file (type png)
 
 <use Plots/thetawoF045.png>
-Package pdftex.def Info: Plots/thetawoF045.png used on input line 587.
+Package pdftex.def Info: Plots/thetawoF045.png used on input line 592.
 (pdftex.def)             Requested size: 150.79968pt x 104.99034pt.
 
-<Plots/thetawF045.png, id=106, 769.87625pt x 536.0025pt>
+<Plots/thetawF045.png, id=104, 769.87625pt x 536.0025pt>
 File: Plots/thetawF045.png Graphic file (type png)
 
 <use Plots/thetawF045.png>
-Package pdftex.def Info: Plots/thetawF045.png used on input line 587.
+Package pdftex.def Info: Plots/thetawF045.png used on input line 592.
 (pdftex.def)             Requested size: 150.79968pt x 104.99034pt.
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 587.
+Package pdftex.def Info: a2logo_white.pdf used on input line 592.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
 
-Overfull \vbox (14.12596pt too high) detected at line 587
+Overfull \vbox (14.12596pt too high) detected at line 592
  []
 
 [9
 
- <./Plots/thetawoF045.png> <./Plots/thetawF045.png>]
-<Plots/7.jpg, id=113, 602.25pt x 301.125pt>
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation8})
+ has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.592 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.8}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.592 \end{frame}
+                 
+
+ <./Plots/6.jpg> <./Plots/EwoF045.png> <./Plots/EwF045.png>]
+<Plots/7.jpg, id=117, 602.25pt x 301.125pt>
 File: Plots/7.jpg Graphic file (type jpg)
  <use Plots/7.jpg>
-Package pdftex.def Info: Plots/7.jpg used on input line 608.
+Package pdftex.def Info: Plots/7.jpg used on input line 613.
 (pdftex.def)             Requested size: 170.71652pt x 85.35744pt.
 
-<Plots/EwoF025.png, id=114, 769.87625pt x 536.0025pt>
+<Plots/EwoF025.png, id=118, 769.87625pt x 536.0025pt>
 File: Plots/EwoF025.png Graphic file (type png)
  <use Plots/EwoF025.png>
-Package pdftex.def Info: Plots/EwoF025.png used on input line 608.
+Package pdftex.def Info: Plots/EwoF025.png used on input line 613.
 (pdftex.def)             Requested size: 150.79968pt x 104.99034pt.
 
-<Plots/EwF025.png, id=115, 769.87625pt x 536.0025pt>
+<Plots/EwF025.png, id=119, 769.87625pt x 536.0025pt>
 File: Plots/EwF025.png Graphic file (type png)
  <use Plots/EwF025.png>
-Package pdftex.def Info: Plots/EwF025.png used on input line 608.
+Package pdftex.def Info: Plots/EwF025.png used on input line 613.
 (pdftex.def)             Requested size: 150.79968pt x 104.99034pt.
 File: a2logo_white.pdf Graphic file (type pdf)
 
 <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 608.
+Package pdftex.def Info: a2logo_white.pdf used on input line 613.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
 
-Overfull \vbox (14.12596pt too high) detected at line 608
+Overfull \vbox (14.12596pt too high) detected at line 613
  []
 
 [10
 
- <./Plots/7.jpg> <./Plots/EwoF025.png> <./Plots/EwF025.png>]
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation9})
+ has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.613 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.9}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.613 \end{frame}
+                 
+
+ <./Plots/thetawoF045.png> <./Plots/thetawF045.png>]
 File: Plots/7.jpg Graphic file (type jpg)
 
 <use Plots/7.jpg>
-Package pdftex.def Info: Plots/7.jpg used on input line 629.
+Package pdftex.def Info: Plots/7.jpg used on input line 634.
 (pdftex.def)             Requested size: 170.71652pt x 85.35744pt.
- <Plots/thetawoF025.png, id=123, 769.87625pt x 536.0025pt>
+ <Plots/thetawoF025.png, id=127, 769.87625pt x 536.0025pt>
 File: Plots/thetawoF025.png Graphic file (type png)
 
 <use Plots/thetawoF025.png>
-Package pdftex.def Info: Plots/thetawoF025.png used on input line 629.
+Package pdftex.def Info: Plots/thetawoF025.png used on input line 634.
 (pdftex.def)             Requested size: 150.79968pt x 104.99034pt.
 
-<Plots/thetawF025.png, id=124, 769.87625pt x 536.0025pt>
+<Plots/thetawF025.png, id=128, 769.87625pt x 536.0025pt>
 File: Plots/thetawF025.png Graphic file (type png)
 
 <use Plots/thetawF025.png>
-Package pdftex.def Info: Plots/thetawF025.png used on input line 629.
+Package pdftex.def Info: Plots/thetawF025.png used on input line 634.
 (pdftex.def)             Requested size: 150.79968pt x 104.99034pt.
-pdfTeX warning (ext4): destination with the same identifier (name{fig:example})
- has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.629 \end{frame}
-                 
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 629.
+Package pdftex.def Info: a2logo_white.pdf used on input line 634.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
 
-Overfull \vbox (14.12596pt too high) detected at line 629
+Overfull \vbox (14.12596pt too high) detected at line 634
  []
 
 [11
 
- <./Plots/thetawoF025.png> <./Plots/thetawF025.png>]
-<Plots/9.jpg, id=131, 602.25pt x 301.125pt>
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation10}
+) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.634 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.10}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.634 \end{frame}
+                 
+
+ <./Plots/7.jpg> <./Plots/EwoF025.png> <./Plots/EwF025.png>]
+<Plots/9.jpg, id=137, 602.25pt x 301.125pt>
 File: Plots/9.jpg Graphic file (type jpg)
  <use Plots/9.jpg>
-Package pdftex.def Info: Plots/9.jpg used on input line 651.
+Package pdftex.def Info: Plots/9.jpg used on input line 656.
 (pdftex.def)             Requested size: 170.71652pt x 85.35744pt.
 
-<Plots/pE+45.png, id=132, 614.295pt x 463.7325pt>
+<Plots/pE+45.png, id=138, 614.295pt x 463.7325pt>
 File: Plots/pE+45.png Graphic file (type png)
  <use Plots/pE+45.png>
-Package pdftex.def Info: Plots/pE+45.png used on input line 651.
+Package pdftex.def Info: Plots/pE+45.png used on input line 656.
 (pdftex.def)             Requested size: 150.79968pt x 113.83835pt.
 
-<Plots/pE+45Fit.png, id=133, 614.295pt x 463.7325pt>
+<Plots/pE+45Fit.png, id=139, 614.295pt x 463.7325pt>
 File: Plots/pE+45Fit.png Graphic file (type png)
  <use Plots/pE+45Fit.png>
-Package pdftex.def Info: Plots/pE+45Fit.png used on input line 651.
+Package pdftex.def Info: Plots/pE+45Fit.png used on input line 656.
 (pdftex.def)             Requested size: 150.79968pt x 113.83835pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:example})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.651 \end{frame}
+l.656 \end{frame}
                  
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 651.
+Package pdftex.def Info: a2logo_white.pdf used on input line 656.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
 
-Overfull \vbox (22.97397pt too high) detected at line 651
+Overfull \vbox (22.97397pt too high) detected at line 656
  []
 
 [12
 
- <./Plots/9.jpg> <./Plots/pE+45.png> <./Plots/pE+45Fit.png>]
+pdfTeX warning (ext4): destination with the same identifier (name{fig:example})
+ has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.656 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{Navigation11}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.656 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.11}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.656 \end{frame}
+                 
+
+ <./Plots/thetawoF025.png> <./Plots/thetawF025.png>]
 File: Plots/9.jpg Graphic file (type jpg)
 
 <use Plots/9.jpg>
-Package pdftex.def Info: Plots/9.jpg used on input line 678.
+Package pdftex.def Info: Plots/9.jpg used on input line 683.
 (pdftex.def)             Requested size: 170.71652pt x 85.35744pt.
- <Plots/pTheta+45.png, id=140, 614.295pt x 463.7325pt>
+ <Plots/pTheta+45.png, id=147, 614.295pt x 463.7325pt>
 File: Plots/pTheta+45.png Graphic file (type png)
 
 <use Plots/pTheta+45.png>
-Package pdftex.def Info: Plots/pTheta+45.png used on input line 678.
+Package pdftex.def Info: Plots/pTheta+45.png used on input line 683.
 (pdftex.def)             Requested size: 150.79968pt x 113.83835pt.
 
-<Plots/pTheta+45Fit.png, id=141, 614.295pt x 463.7325pt>
+<Plots/pTheta+45Fit.png, id=148, 614.295pt x 463.7325pt>
 File: Plots/pTheta+45Fit.png Graphic file (type png)
 
 <use Plots/pTheta+45Fit.png>
-Package pdftex.def Info: Plots/pTheta+45Fit.png used on input line 678.
+Package pdftex.def Info: Plots/pTheta+45Fit.png used on input line 683.
 (pdftex.def)             Requested size: 150.79968pt x 113.83835pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:example})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.678 \end{frame}
+l.683 \end{frame}
                  
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 678.
+Package pdftex.def Info: a2logo_white.pdf used on input line 683.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
 
-Overfull \vbox (22.97397pt too high) detected at line 678
+Overfull \vbox (22.97397pt too high) detected at line 683
  []
 
 [13
 
- <./Plots/pTheta+45.png> <./Plots/pTheta+45Fit.png>]
-<Plots/MC/1/ThetaTheta1Proton.pdf, id=149, 569.05696pt x 340.79822pt>
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation12}
+) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.683 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.12}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.683 \end{frame}
+                 
+
+ <./Plots/9.jpg> <./Plots/pE+45.png> <./Plots/pE+45Fit.png>]
+<Plots/MC/1/ThetaTheta1Proton.pdf, id=156, 569.05696pt x 340.79822pt>
 File: Plots/MC/1/ThetaTheta1Proton.pdf Graphic file (type pdf)
 
 <use Plots/MC/1/ThetaTheta1Proton.pdf>
-Package pdftex.def Info: Plots/MC/1/ThetaTheta1Proton.pdf used on input line 68
-9.
+Package pdftex.def Info: Plots/MC/1/ThetaTheta1Proton.pdf used on input line 69
+4.
 (pdftex.def)             Requested size: 227.62204pt x 136.31686pt.
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 689.
+Package pdftex.def Info: a2logo_white.pdf used on input line 694.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [14
 
- <./Plots/MC/1/ThetaTheta1Proton.pdf>]
-<Plots/MC/1/ThetaTheta1Omega.pdf, id=282, 569.05696pt x 340.79822pt>
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation13}
+) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.694 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.13}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.694 \end{frame}
+                 
+
+ <./Plots/pTheta+45.png> <./Plots/pTheta+45Fit.png>]
+<Plots/MC/1/ThetaTheta1Omega.pdf, id=165, 569.05696pt x 340.79822pt>
 File: Plots/MC/1/ThetaTheta1Omega.pdf Graphic file (type pdf)
 
 <use Plots/MC/1/ThetaTheta1Omega.pdf>
-Package pdftex.def Info: Plots/MC/1/ThetaTheta1Omega.pdf used on input line 701
+Package pdftex.def Info: Plots/MC/1/ThetaTheta1Omega.pdf used on input line 706
 .
 (pdftex.def)             Requested size: 227.62204pt x 136.31686pt.
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 701.
+Package pdftex.def Info: a2logo_white.pdf used on input line 706.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [15
 
- <./Plots/MC/1/ThetaTheta1Omega.pdf>] [16
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation14}
+) has been already used, duplicate ignored
 
-]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 734
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.706 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.14}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.706 \end{frame}
+                 
+
+ <./Plots/MC/1/ThetaTheta1Proton.pdf>] [16
+
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation15}
+) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.714 \section{Unfolding}
+                         pdfTeX warning (ext4): destination with the same ident
+ifier (name{page.15}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.714 \section{Unfolding}
+                         
+
+ <./Plots/MC/1/ThetaTheta1Omega.pdf>]
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 743
 .
-LaTeX Font Info:    No file OMScmss.fd. on input line 734.
+LaTeX Font Info:    No file OMScmss.fd. on input line 743.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 734.
+(Font)              for symbol `textbullet' on input line 743.
 
 File: a2logo_white.pdf Graphic file (type pdf)
 <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 734.
+Package pdftex.def Info: a2logo_white.pdf used on input line 743.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [17
 
-]
-<Plots/FlatMC.pdf, id=488, 569.12625pt x 429.605pt>
-File: Plots/FlatMC.pdf Graphic file (type pdf)
- <use Plots/FlatMC.pdf>
-Package pdftex.def Info: Plots/FlatMC.pdf used on input line 790.
-(pdftex.def)             Requested size: 227.62204pt x 171.81927pt.
-File: a2logo_white.pdf Graphic file (type pdf)
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation16}
+) has been already used, duplicate ignored
 
-<use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 790.
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.743 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.16}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.743 \end{frame}
+                 
+
+] <Plots/Tim.png, id=502, 630.1944pt x 451.32616pt>
+File: Plots/Tim.png Graphic file (type png)
+
+<use Plots/Tim.png>
+Package pdftex.def Info: Plots/Tim.png used on input line 765.
+(pdftex.def)             Requested size: 227.62204pt x 163.01445pt.
+File: a2logo_white.pdf Graphic file (type pdf)
+ <use a2logo_white.pdf>
+Package pdftex.def Info: a2logo_white.pdf used on input line 765.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [18
 
- <./Plots/FlatMC.pdf, page is rotated 90 degrees>]
-File: a2logo_white.pdf Graphic file (type pdf)
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation17}
+) has been already used, duplicate ignored
 
-<use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 802.
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.765 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.17}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.765 \end{frame}
+                 
+
+] <Plots/FlatMC.pdf, id=516, 569.12625pt x 429.605pt>
+File: Plots/FlatMC.pdf Graphic file (type pdf)
+
+<use Plots/FlatMC.pdf>
+Package pdftex.def Info: Plots/FlatMC.pdf used on input line 828.
+(pdftex.def)             Requested size: 227.62204pt x 171.81927pt.
+File: a2logo_white.pdf Graphic file (type pdf)
+ <use a2logo_white.pdf>
+Package pdftex.def Info: a2logo_white.pdf used on input line 828.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [19
 
-]
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation18}
+) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.828 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.18}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.828 \end{frame}
+                 
+
+ <./Plots/Tim.png>]
+File: a2logo_white.pdf Graphic file (type pdf)
+ <use a2logo_white.pdf>
+Package pdftex.def Info: a2logo_white.pdf used on input line 842.
+(pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
+ [20
+
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation19}
+) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.842 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.19}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.842 \end{frame}
+                 
+
+ <./Plots/FlatMC.pdf, page is rotated 90 degrees>]
 \tf@nav=\write7
 \openout7 = `demo.nav'.
 
@@ -1760,11 +2048,28 @@ Package pdftex.def Info: a2logo_white.pdf used on input line 802.
 \tf@snm=\write9
 \openout9 = `demo.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 806.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 806.
+ [21
+
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation20}
+) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.846 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{page.20}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.846 \end{document}
+                    
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 846.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 846.
  (./demo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 806.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 806.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 846.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 846.
 Package rerunfilecheck Info: File `demo.out' has not changed.
 (rerunfilecheck)             Checksum: C802890AABB3B874E09EA8952982286F;44.
 
@@ -1780,13 +2085,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 30259 strings out of 494852
- 602070 string characters out of 6177656
- 649008 words of memory out of 5000000
- 32940 multiletter control sequences out of 15000+600000
+ 30459 strings out of 494852
+ 607498 string characters out of 6177656
+ 668440 words of memory out of 5000000
+ 33134 multiletter control sequences out of 15000+600000
  18069 words of font info for 65 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 71i,16n,102p,10413b,905s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,16n,102p,10413b,942s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
@@ -1803,14 +2108,15 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/symbols/msam10.pfb>
-Output written on demo.pdf (19 pages, 825457 bytes).
+st/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/symbols/msam10.pfb>
+Output written on demo.pdf (20 pages, 861810 bytes).
 PDF statistics:
- 628 PDF objects out of 1000 (max. 8388607)
- 422 compressed objects within 5 object streams
- 41 named destinations out of 1000 (max. 500000)
- 181 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 673 PDF objects out of 1000 (max. 8388607)
+ 458 compressed objects within 5 object streams
+ 43 named destinations out of 1000 (max. 500000)
+ 186 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.11.21)  25 MAR 2019 13:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.11.21)  26 MAR 2019 17:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1202,20 +1202,20 @@ LaTeX Warning: Label `fig:example' multiply defined.
 )
 \openout1 = `demo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1283,7 +1283,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box114
-Package hyperref Info: Link coloring OFF on input line 140.
+Package hyperref Info: Link coloring OFF on input line 141.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1293,66 +1293,66 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count300
 )
-LaTeX Info: Redefining \ref on input line 140.
-LaTeX Info: Redefining \pageref on input line 140.
-LaTeX Info: Redefining \nameref on input line 140.
+LaTeX Info: Redefining \ref on input line 141.
+LaTeX Info: Redefining \pageref on input line 141.
+LaTeX Info: Redefining \nameref on input line 141.
 
 (./demo.out) (./demo.out)
 \@outlinefile=\write6
 \openout6 = `demo.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 140.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 141.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 140.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 141.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 140.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 140.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 141.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 140.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 141.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 140.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 140.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 141.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 141.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 140.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 141.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 140.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 140.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 141.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 141.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 140.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 141.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 140.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 140.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 141.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 141.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 140.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 141.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 140.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 141.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 140.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 141.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 140.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 141.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 140.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 141.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 140.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 141.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 140.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 141.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 140.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 141.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 140.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 140.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 141.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 141.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
-40.
+41.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-140.
+141.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 140.
+ut line 141.
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
 ic-dictionary/translator-basic-dictionary-English.dict
@@ -1378,44 +1378,44 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 140.
+LaTeX Info: Redefining \includegraphics on input line 141.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
  (./demo.nav)
-LaTeX Font Info:    Try loading font information for U+msa on input line 140.
+LaTeX Font Info:    Try loading font information for U+msa on input line 141.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 140.
+LaTeX Font Info:    Try loading font information for U+msb on input line 141.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 140.
+line 141.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 142--142
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
 
  []
 
 <a2logo_light.pdf, id=22, 803.0pt x 527.28194pt>
 File: a2logo_light.pdf Graphic file (type pdf)
  <use a2logo_light.pdf>
-Package pdftex.def Info: a2logo_light.pdf used on input line 142.
+Package pdftex.def Info: a2logo_light.pdf used on input line 143.
 (pdftex.def)             Requested size: 43.32582pt x 28.45274pt.
 
-Overfull \vbox (38.45276pt too high) detected at line 142
+Overfull \vbox (38.45276pt too high) detected at line 143
  []
 
 
-Overfull \vbox (13.79993pt too high) detected at line 142
+Overfull \vbox (13.79993pt too high) detected at line 143
  []
 
 [1
@@ -1425,18 +1425,18 @@ Excluding 'comment' comment. <Plots/1.jpg, id=40, 602.25pt x 301.125pt>
 File: Plots/1.jpg Graphic file (type jpg)
 
 <use Plots/1.jpg>
-Package pdftex.def Info: Plots/1.jpg used on input line 423.
+Package pdftex.def Info: Plots/1.jpg used on input line 424.
 (pdftex.def)             Requested size: 236.15796pt x 118.08154pt.
  <a2logo_white.pdf, id=41, 729.9996pt x 480.96101pt>
 File: a2logo_white.pdf Graphic file (type pdf)
 
 <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 423.
+Package pdftex.def Info: a2logo_white.pdf used on input line 424.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 423.
+(Font)              size <5> substituted on input line 424.
 
 [2
 
@@ -1444,12 +1444,12 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 <Plots/2.jpg, id=53, 602.25pt x 301.125pt>
 File: Plots/2.jpg Graphic file (type jpg)
  <use Plots/2.jpg>
-Package pdftex.def Info: Plots/2.jpg used on input line 433.
+Package pdftex.def Info: Plots/2.jpg used on input line 434.
 (pdftex.def)             Requested size: 236.15796pt x 118.08154pt.
 File: a2logo_white.pdf Graphic file (type pdf)
 
 <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 433.
+Package pdftex.def Info: a2logo_white.pdf used on input line 434.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [3
 
@@ -1457,12 +1457,12 @@ Package pdftex.def Info: a2logo_white.pdf used on input line 433.
 <Plots/3.jpg, id=60, 602.25pt x 301.125pt>
 File: Plots/3.jpg Graphic file (type jpg)
  <use Plots/3.jpg>
-Package pdftex.def Info: Plots/3.jpg used on input line 448.
+Package pdftex.def Info: Plots/3.jpg used on input line 449.
 (pdftex.def)             Requested size: 236.15796pt x 118.08154pt.
 File: a2logo_white.pdf Graphic file (type pdf)
 
 <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 448.
+Package pdftex.def Info: a2logo_white.pdf used on input line 449.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [4
 
@@ -1470,28 +1470,28 @@ Package pdftex.def Info: a2logo_white.pdf used on input line 448.
 <Plots/4.jpg, id=67, 602.25pt x 602.25pt>
 File: Plots/4.jpg Graphic file (type jpg)
  <use Plots/4.jpg>
-Package pdftex.def Info: Plots/4.jpg used on input line 457.
+Package pdftex.def Info: Plots/4.jpg used on input line 470.
 (pdftex.def)             Requested size: 236.15796pt x 236.16309pt.
 File: a2logo_white.pdf Graphic file (type pdf)
 
 <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 457.
+Package pdftex.def Info: a2logo_white.pdf used on input line 470.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
 
-Overfull \vbox (49.74408pt too high) detected at line 457
+Overfull \vbox (49.74408pt too high) detected at line 470
  []
 
 [5
 
- <./Plots/4.jpg>] <Plots/5.jpg, id=74, 602.25pt x 301.125pt>
+ <./Plots/4.jpg>] <Plots/5.jpg, id=75, 602.25pt x 301.125pt>
 File: Plots/5.jpg Graphic file (type jpg)
 
 <use Plots/5.jpg>
-Package pdftex.def Info: Plots/5.jpg used on input line 493.
+Package pdftex.def Info: Plots/5.jpg used on input line 508.
 (pdftex.def)             Requested size: 236.15796pt x 118.08154pt.
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 493.
+Package pdftex.def Info: a2logo_white.pdf used on input line 508.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [6
 
@@ -1499,12 +1499,12 @@ Package pdftex.def Info: a2logo_white.pdf used on input line 493.
 <Plots/8.jpg, id=87, 602.25pt x 301.125pt>
 File: Plots/8.jpg Graphic file (type jpg)
  <use Plots/8.jpg>
-Package pdftex.def Info: Plots/8.jpg used on input line 493.
+Package pdftex.def Info: Plots/8.jpg used on input line 508.
 (pdftex.def)             Requested size: 236.15796pt x 118.08154pt.
 File: a2logo_white.pdf Graphic file (type pdf)
 
 <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 493.
+Package pdftex.def Info: a2logo_white.pdf used on input line 508.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [7
 
@@ -1512,27 +1512,27 @@ Package pdftex.def Info: a2logo_white.pdf used on input line 493.
 <Plots/6.jpg, id=95, 602.25pt x 301.125pt>
 File: Plots/6.jpg Graphic file (type jpg)
  <use Plots/6.jpg>
-Package pdftex.def Info: Plots/6.jpg used on input line 568.
+Package pdftex.def Info: Plots/6.jpg used on input line 595.
 (pdftex.def)             Requested size: 170.71652pt x 85.35744pt.
 
 <Plots/EwoF045.png, id=96, 769.87625pt x 536.0025pt>
 File: Plots/EwoF045.png Graphic file (type png)
  <use Plots/EwoF045.png>
-Package pdftex.def Info: Plots/EwoF045.png used on input line 568.
+Package pdftex.def Info: Plots/EwoF045.png used on input line 595.
 (pdftex.def)             Requested size: 150.79968pt x 104.99034pt.
 
 <Plots/EwF045.png, id=97, 769.87625pt x 536.0025pt>
 File: Plots/EwF045.png Graphic file (type png)
  <use Plots/EwF045.png>
-Package pdftex.def Info: Plots/EwF045.png used on input line 568.
+Package pdftex.def Info: Plots/EwF045.png used on input line 595.
 (pdftex.def)             Requested size: 150.79968pt x 104.99034pt.
 File: a2logo_white.pdf Graphic file (type pdf)
 
 <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 568.
+Package pdftex.def Info: a2logo_white.pdf used on input line 595.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
 
-Overfull \vbox (14.12596pt too high) detected at line 568
+Overfull \vbox (14.12596pt too high) detected at line 595
  []
 
 [8
@@ -1541,27 +1541,27 @@ Overfull \vbox (14.12596pt too high) detected at line 568
 File: Plots/6.jpg Graphic file (type jpg)
 
 <use Plots/6.jpg>
-Package pdftex.def Info: Plots/6.jpg used on input line 588.
+Package pdftex.def Info: Plots/6.jpg used on input line 634.
 (pdftex.def)             Requested size: 170.71652pt x 85.35744pt.
  <Plots/thetawoF045.png, id=109, 769.87625pt x 536.0025pt>
 File: Plots/thetawoF045.png Graphic file (type png)
 
 <use Plots/thetawoF045.png>
-Package pdftex.def Info: Plots/thetawoF045.png used on input line 588.
+Package pdftex.def Info: Plots/thetawoF045.png used on input line 634.
 (pdftex.def)             Requested size: 150.79968pt x 104.99034pt.
 
 <Plots/thetawF045.png, id=110, 769.87625pt x 536.0025pt>
 File: Plots/thetawF045.png Graphic file (type png)
 
 <use Plots/thetawF045.png>
-Package pdftex.def Info: Plots/thetawF045.png used on input line 588.
+Package pdftex.def Info: Plots/thetawF045.png used on input line 634.
 (pdftex.def)             Requested size: 150.79968pt x 104.99034pt.
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 588.
+Package pdftex.def Info: a2logo_white.pdf used on input line 634.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
 
-Overfull \vbox (14.12596pt too high) detected at line 588
+Overfull \vbox (14.12596pt too high) detected at line 634
  []
 
 [9
@@ -1570,27 +1570,27 @@ Overfull \vbox (14.12596pt too high) detected at line 588
 <Plots/7.jpg, id=117, 602.25pt x 301.125pt>
 File: Plots/7.jpg Graphic file (type jpg)
  <use Plots/7.jpg>
-Package pdftex.def Info: Plots/7.jpg used on input line 609.
+Package pdftex.def Info: Plots/7.jpg used on input line 673.
 (pdftex.def)             Requested size: 170.71652pt x 85.35744pt.
 
 <Plots/EwoF025.png, id=118, 769.87625pt x 536.0025pt>
 File: Plots/EwoF025.png Graphic file (type png)
  <use Plots/EwoF025.png>
-Package pdftex.def Info: Plots/EwoF025.png used on input line 609.
+Package pdftex.def Info: Plots/EwoF025.png used on input line 673.
 (pdftex.def)             Requested size: 150.79968pt x 104.99034pt.
 
 <Plots/EwF025.png, id=119, 769.87625pt x 536.0025pt>
 File: Plots/EwF025.png Graphic file (type png)
  <use Plots/EwF025.png>
-Package pdftex.def Info: Plots/EwF025.png used on input line 609.
+Package pdftex.def Info: Plots/EwF025.png used on input line 673.
 (pdftex.def)             Requested size: 150.79968pt x 104.99034pt.
 File: a2logo_white.pdf Graphic file (type pdf)
 
 <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 609.
+Package pdftex.def Info: a2logo_white.pdf used on input line 673.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
 
-Overfull \vbox (14.12596pt too high) detected at line 609
+Overfull \vbox (14.12596pt too high) detected at line 673
  []
 
 [10
@@ -1599,33 +1599,33 @@ Overfull \vbox (14.12596pt too high) detected at line 609
 File: Plots/7.jpg Graphic file (type jpg)
 
 <use Plots/7.jpg>
-Package pdftex.def Info: Plots/7.jpg used on input line 630.
+Package pdftex.def Info: Plots/7.jpg used on input line 712.
 (pdftex.def)             Requested size: 170.71652pt x 85.35744pt.
  <Plots/thetawoF025.png, id=127, 769.87625pt x 536.0025pt>
 File: Plots/thetawoF025.png Graphic file (type png)
 
 <use Plots/thetawoF025.png>
-Package pdftex.def Info: Plots/thetawoF025.png used on input line 630.
+Package pdftex.def Info: Plots/thetawoF025.png used on input line 712.
 (pdftex.def)             Requested size: 150.79968pt x 104.99034pt.
 
 <Plots/thetawF025.png, id=128, 769.87625pt x 536.0025pt>
 File: Plots/thetawF025.png Graphic file (type png)
 
 <use Plots/thetawF025.png>
-Package pdftex.def Info: Plots/thetawF025.png used on input line 630.
+Package pdftex.def Info: Plots/thetawF025.png used on input line 712.
 (pdftex.def)             Requested size: 150.79968pt x 104.99034pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:example})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.630 \end{frame}
+l.712 \end{frame}
                  
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 630.
+Package pdftex.def Info: a2logo_white.pdf used on input line 712.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
 
-Overfull \vbox (14.12596pt too high) detected at line 630
+Overfull \vbox (14.12596pt too high) detected at line 712
  []
 
 [11
@@ -1634,32 +1634,32 @@ Overfull \vbox (14.12596pt too high) detected at line 630
 <Plots/9.jpg, id=135, 602.25pt x 301.125pt>
 File: Plots/9.jpg Graphic file (type jpg)
  <use Plots/9.jpg>
-Package pdftex.def Info: Plots/9.jpg used on input line 652.
+Package pdftex.def Info: Plots/9.jpg used on input line 753.
 (pdftex.def)             Requested size: 170.71652pt x 85.35744pt.
 
 <Plots/pE+45.png, id=136, 614.295pt x 463.7325pt>
 File: Plots/pE+45.png Graphic file (type png)
  <use Plots/pE+45.png>
-Package pdftex.def Info: Plots/pE+45.png used on input line 652.
+Package pdftex.def Info: Plots/pE+45.png used on input line 753.
 (pdftex.def)             Requested size: 150.79968pt x 113.83835pt.
 
 <Plots/pE+45Fit.png, id=137, 614.295pt x 463.7325pt>
 File: Plots/pE+45Fit.png Graphic file (type png)
  <use Plots/pE+45Fit.png>
-Package pdftex.def Info: Plots/pE+45Fit.png used on input line 652.
+Package pdftex.def Info: Plots/pE+45Fit.png used on input line 753.
 (pdftex.def)             Requested size: 150.79968pt x 113.83835pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:example})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.652 \end{frame}
+l.753 \end{frame}
                  
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 652.
+Package pdftex.def Info: a2logo_white.pdf used on input line 753.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
 
-Overfull \vbox (22.97397pt too high) detected at line 652
+Overfull \vbox (22.97397pt too high) detected at line 753
  []
 
 [12
@@ -1668,136 +1668,201 @@ Overfull \vbox (22.97397pt too high) detected at line 652
 File: Plots/9.jpg Graphic file (type jpg)
 
 <use Plots/9.jpg>
-Package pdftex.def Info: Plots/9.jpg used on input line 679.
+Package pdftex.def Info: Plots/9.jpg used on input line 794.
 (pdftex.def)             Requested size: 170.71652pt x 85.35744pt.
  <Plots/pTheta+45.png, id=144, 614.295pt x 463.7325pt>
 File: Plots/pTheta+45.png Graphic file (type png)
 
 <use Plots/pTheta+45.png>
-Package pdftex.def Info: Plots/pTheta+45.png used on input line 679.
+Package pdftex.def Info: Plots/pTheta+45.png used on input line 794.
 (pdftex.def)             Requested size: 150.79968pt x 113.83835pt.
 
 <Plots/pTheta+45Fit.png, id=145, 614.295pt x 463.7325pt>
 File: Plots/pTheta+45Fit.png Graphic file (type png)
 
 <use Plots/pTheta+45Fit.png>
-Package pdftex.def Info: Plots/pTheta+45Fit.png used on input line 679.
+Package pdftex.def Info: Plots/pTheta+45Fit.png used on input line 794.
 (pdftex.def)             Requested size: 150.79968pt x 113.83835pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:example})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.679 \end{frame}
+l.794 \end{frame}
                  
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 679.
+Package pdftex.def Info: a2logo_white.pdf used on input line 794.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
 
-Overfull \vbox (22.97397pt too high) detected at line 679
+Overfull \vbox (22.97397pt too high) detected at line 794
  []
 
 [13
 
  <./Plots/pTheta+45.png> <./Plots/pTheta+45Fit.png>]
-<Plots/MC/1/ThetaTheta1Proton.pdf, id=153, 569.05696pt x 340.79822pt>
+<Plots/MC/1/ThetaTheta1Proton.pdf, id=153, 569.12625pt x 331.2375pt>
 File: Plots/MC/1/ThetaTheta1Proton.pdf Graphic file (type pdf)
 
 <use Plots/MC/1/ThetaTheta1Proton.pdf>
-Package pdftex.def Info: Plots/MC/1/ThetaTheta1Proton.pdf used on input line 69
-0.
-(pdftex.def)             Requested size: 227.62204pt x 136.31686pt.
+Package pdftex.def Info: Plots/MC/1/ThetaTheta1Proton.pdf used on input line 81
+2.
+(pdftex.def)             Requested size: 227.62204pt x 132.47748pt.
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 690.
+Package pdftex.def Info: a2logo_white.pdf used on input line 812.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [14
 
- <./Plots/MC/1/ThetaTheta1Proton.pdf>]
-<Plots/MC/1/ThetaTheta1Omega.pdf, id=286, 569.05696pt x 340.79822pt>
+ <./Plots/MC/1/ThetaTheta1Proton.pdf, page is rotated 90 degrees>]
+<Plots/MC/1/ThetaTheta1Omega.pdf, id=205, 569.12625pt x 331.2375pt>
 File: Plots/MC/1/ThetaTheta1Omega.pdf Graphic file (type pdf)
 
 <use Plots/MC/1/ThetaTheta1Omega.pdf>
-Package pdftex.def Info: Plots/MC/1/ThetaTheta1Omega.pdf used on input line 702
+Package pdftex.def Info: Plots/MC/1/ThetaTheta1Omega.pdf used on input line 828
 .
-(pdftex.def)             Requested size: 227.62204pt x 136.31686pt.
+(pdftex.def)             Requested size: 227.62204pt x 132.47748pt.
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 702.
+Package pdftex.def Info: a2logo_white.pdf used on input line 828.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [15
 
- <./Plots/MC/1/ThetaTheta1Omega.pdf>] [16
+ <./Plots/MC/1/ThetaTheta1Omega.pdf, page is rotated 90 degrees>] [16
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 739
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 865
 .
-LaTeX Font Info:    No file OMScmss.fd. on input line 739.
+LaTeX Font Info:    No file OMScmss.fd. on input line 865.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 739.
+(Font)              for symbol `textbullet' on input line 865.
 
 File: a2logo_white.pdf Graphic file (type pdf)
 <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 739.
+Package pdftex.def Info: a2logo_white.pdf used on input line 865.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [17
 
-] <Plots/Tim.png, id=492, 630.1944pt x 451.32616pt>
+] <Plots/Tim.png, id=271, 630.1944pt x 451.32616pt>
 File: Plots/Tim.png Graphic file (type png)
 
 <use Plots/Tim.png>
-Package pdftex.def Info: Plots/Tim.png used on input line 761.
+Package pdftex.def Info: Plots/Tim.png used on input line 897.
 (pdftex.def)             Requested size: 227.62204pt x 163.01445pt.
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 761.
+Package pdftex.def Info: a2logo_white.pdf used on input line 897.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [18
 
  <./Plots/Tim.png>]
-<Plots/FlatMC.pdf, id=501, 569.12625pt x 429.605pt>
+<Plots/FlatMC.pdf, id=280, 569.12625pt x 429.605pt>
 File: Plots/FlatMC.pdf Graphic file (type pdf)
  <use Plots/FlatMC.pdf>
-Package pdftex.def Info: Plots/FlatMC.pdf used on input line 862.
+Package pdftex.def Info: Plots/FlatMC.pdf used on input line 1010.
 (pdftex.def)             Requested size: 227.62204pt x 171.81927pt.
 
-Overfull \hbox (42.67914pt too wide) in paragraph at lines 862--862
+Overfull \hbox (42.67914pt too wide) in paragraph at lines 1010--1010
  [] 
  []
 
 File: a2logo_white.pdf Graphic file (type pdf)
 <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 862.
+Package pdftex.def Info: a2logo_white.pdf used on input line 1010.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [19
 
  <./Plots/FlatMC.pdf, page is rotated 90 degrees>]
-File: a2logo_white.pdf Graphic file (type pdf)
+File: Plots/FlatMC.pdf Graphic file (type pdf)
 
-<use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 880.
+<use Plots/FlatMC.pdf>
+Package pdftex.def Info: Plots/FlatMC.pdf used on input line 1010.
+(pdftex.def)             Requested size: 227.62204pt x 171.81927pt.
+
+Overfull \hbox (42.67914pt too wide) in paragraph at lines 1010--1010
+ [] 
+ []
+
+File: Plots/1.jpg Graphic file (type jpg)
+<use Plots/1.jpg>
+Package pdftex.def Info: Plots/1.jpg used on input line 1010.
+(pdftex.def)             Requested size: 170.71652pt x 85.35744pt.
+File: a2logo_white.pdf Graphic file (type pdf)
+ <use a2logo_white.pdf>
+Package pdftex.def Info: a2logo_white.pdf used on input line 1010.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
  [20
 
 ]
+File: Plots/4.jpg Graphic file (type jpg)
+ <use Plots/4.jpg>
+Package pdftex.def Info: Plots/4.jpg used on input line 1069.
+(pdftex.def)             Requested size: 184.9429pt x 184.94035pt.
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 1069--1069
+ [] 
+ []
+
+File: a2logo_white.pdf Graphic file (type pdf)
+<use a2logo_white.pdf>
+Package pdftex.def Info: a2logo_white.pdf used on input line 1069.
+(pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
+ [21
+
+] <Plots/CB.pdf, id=347, 184.34685pt x 162.04158pt>
+File: Plots/CB.pdf Graphic file (type pdf)
+
+<use Plots/CB.pdf>
+Package pdftex.def Info: Plots/CB.pdf used on input line 1069.
+(pdftex.def)             Requested size: 170.71652pt x 150.06165pt.
+File: a2logo_white.pdf Graphic file (type pdf)
+ <use a2logo_white.pdf>
+Package pdftex.def Info: a2logo_white.pdf used on input line 1069.
+(pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
+ [22
+
+ <./Plots/CB.pdf>]
+File: Plots/thetawF025.png Graphic file (type png)
+
+<use Plots/thetawF025.png>
+Package pdftex.def Info: Plots/thetawF025.png used on input line 1069.
+(pdftex.def)             Requested size: 170.71652pt x 118.85329pt.
+File: a2logo_white.pdf Graphic file (type pdf)
+ <use a2logo_white.pdf>
+Package pdftex.def Info: a2logo_white.pdf used on input line 1069.
+(pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
+ [23
+
+]
+File: Plots/FlatMC.pdf Graphic file (type pdf)
+ <use Plots/FlatMC.pdf>
+Package pdftex.def Info: Plots/FlatMC.pdf used on input line 1069.
+(pdftex.def)             Requested size: 170.71652pt x 128.86282pt.
+File: a2logo_white.pdf Graphic file (type pdf)
+
+<use a2logo_white.pdf>
+Package pdftex.def Info: a2logo_white.pdf used on input line 1069.
+(pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
+ [24
+
+]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\translate ' on input line 882.
+(hyperref)                removing `\translate ' on input line 1071.
 
-<Plots/OmegaFlat.pdf, id=561, 569.05696pt x 340.79822pt>
+<Plots/OmegaFlat.pdf, id=374, 569.05696pt x 340.79822pt>
 File: Plots/OmegaFlat.pdf Graphic file (type pdf)
 
 <use Plots/OmegaFlat.pdf>
-Package pdftex.def Info: Plots/OmegaFlat.pdf used on input line 897.
+Package pdftex.def Info: Plots/OmegaFlat.pdf used on input line 1086.
 (pdftex.def)             Requested size: 227.62204pt x 136.31686pt.
 File: a2logo_white.pdf Graphic file (type pdf)
  <use a2logo_white.pdf>
-Package pdftex.def Info: a2logo_white.pdf used on input line 897.
+Package pdftex.def Info: a2logo_white.pdf used on input line 1086.
 (pdftex.def)             Requested size: 25.90903pt x 17.07182pt.
- [21
+ [25
 
  <./Plots/OmegaFlat.pdf>]
 \tf@nav=\write7
@@ -1809,12 +1874,13 @@ Package pdftex.def Info: a2logo_white.pdf used on input line 897.
 \tf@snm=\write9
 \openout9 = `demo.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 901.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 901.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1090.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1090.
 
 (./demo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 901.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 901.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1090.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1090.
+
 Package rerunfilecheck Info: File `demo.out' has not changed.
 (rerunfilecheck)             Checksum: A44ED41A461D98B566958EEF5BBD4DC2;85.
 
@@ -1830,10 +1896,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 30428 strings out of 494852
- 606639 string characters out of 6177656
- 656689 words of memory out of 5000000
- 33095 multiletter control sequences out of 15000+600000
+ 30450 strings out of 494852
+ 606975 string characters out of 6177656
+ 656877 words of memory out of 5000000
+ 33108 multiletter control sequences out of 15000+600000
  18069 words of font info for 65 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  71i,16n,102p,10413b,905s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1857,10 +1923,10 @@ st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/amsfonts/symbols/msam10.pfb>
-Output written on demo.pdf (21 pages, 871844 bytes).
+Output written on demo.pdf (25 pages, 845459 bytes).
 PDF statistics:
- 768 PDF objects out of 1000 (max. 8388607)
- 518 compressed objects within 6 object streams
- 46 named destinations out of 1000 (max. 500000)
- 199 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 582 PDF objects out of 1000 (max. 8388607)
+ 378 compressed objects within 4 object streams
+ 54 named destinations out of 1000 (max. 500000)
+ 204 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -39,6 +39,7 @@
 \usepackage{multicol}
 \usepackage{subfig}
 \usepackage{tikz}
+\usepackage{color}
 \usepackage{wrapfig}
 \usetikzlibrary{calc}
 \usepackage[absolute,overlay]{textpos}
@@ -454,13 +455,27 @@ The theme \emph{itself} is licensed under a
 		\captionsetup{labelformat=empty}
 		\caption{Cross Section and efficiency. There is an efficiency drop at cos($\theta) \approx -0.3$}
 	\end{figure}
+
+
+
+
+\begin{textblock*}{4cm}(2.2cm,6.1cm)
+	Efficiency
+\end{textblock*}
+
+\begin{textblock*}{4cm}(2.5cm,2.2cm)
+	\textcolor{red}{Cross Section}
+\end{textblock*}
+
 \end{frame}
 
-\begin{frame}{Taking a closer Look}
-	\begin{equation*}
-\gamma  p \rightarrow \underset{ \hspace{1.05cm}\rotatebox[origin=c]{180}{$\Lsh$}{\underset{\hspace{0.5cm}\rotatebox[origin=c]{180}{$\Lsh$} \gamma \gamma 	}{\gamma \pi^0}}}{\omega} p 
-	\end{equation*}
+\begin{frame}{Taking a closer look}
+	
 
+	\begin{equation*}
+ \gamma  p \rightarrow \underset{ \hspace{1.05cm}\rotatebox[origin=c]{180}{$\Lsh$}{\underset{\hspace{0.5cm}\rotatebox[origin=c]{180}{$\Lsh$} \gamma \gamma 	}{\gamma \pi^0}}}{\omega} p 
+	\end{equation*}
+\normalsize
 There is a 1:1 correlation between the polar angle of $p$ and $\omega$ for fixed $E(\gamma)$!
 
 
@@ -560,14 +575,26 @@ There is a 1:1 correlation between the polar angle of $p$ and $\omega$ for fixed
 	
 \end{figure}
 
+\begin{textblock*}{4.5cm}(1.6cm,4.8cm)
+	\footnotesize Reconstructed:
+	
+	\footnotesize \textcolor{red}{MC}
+	
+	\footnotesize \textcolor{blue}{Data}
+\end{textblock*}
 
-
-
+\begin{textblock*}{4.5cm}(7.6cm,4.8cm)
+	\footnotesize After KFit:
+	
+	\footnotesize \textcolor{red}{MC}
+	
+	\footnotesize \textcolor{blue}{Data}
+\end{textblock*}
 
 	
 \end{frame}
 
-\begin{frame}{$ \theta$ of Proton for cos$(\theta_{\omega})=[-0.45,-0.35]$ (Peak)}
+\begin{frame}{$ \theta$ of proton for cos$(\theta_{\omega})=[-0.45,-0.35]$ (Peak)}
 	
 	\begin{figure}
 		\hspace{0cm}  \vspace{-1cm}
@@ -585,11 +612,30 @@ There is a 1:1 correlation between the polar angle of $p$ and $\omega$ for fixed
 
 	\end{figure}
 	
+	\begin{textblock*}{4.5cm}(3.1cm,4.8cm)
+		\footnotesize Reconstructed:
+		
+		\footnotesize \textcolor{red}{MC}
+		
+		\footnotesize \textcolor{blue}{Data}
+	\end{textblock*}
+	
+	\begin{textblock*}{4.5cm}(9.1cm,4.8cm)
+		\footnotesize After KFit:
+		
+		\footnotesize \textcolor{red}{MC}
+		
+		\footnotesize \textcolor{blue}{Data}
+	\end{textblock*}
+	
+	
+	
+	
 \end{frame}
 
 
 
-\begin{frame}{Energy of Protons for cos$(\theta_{\omega})=[-0.35,-0.25]$ (Dip)}
+\begin{frame}{Energy of protons for cos$(\theta_{\omega})=[-0.35,-0.25]$ (Dip)}
 	
 	\begin{figure}
 		\hspace{0cm}  \vspace{-1cm}
@@ -605,11 +651,29 @@ There is a 1:1 correlation between the polar angle of $p$ and $\omega$ for fixed
 		\caption{Energy of protons for $\textrm{cos}(\theta_{\omega}) = [-0.35, -0.25] $. Red are MC and blue are beamtime data. Left side is just measured, right side is after KFit. }%
 		\label{fig:example}%
 	\end{figure}
+
+\begin{textblock*}{4.5cm}(1.6cm,4.8cm)
+	\footnotesize Reconstructed:
+	
+	\footnotesize \textcolor{red}{MC}
+	
+	\footnotesize \textcolor{blue}{Data}
+\end{textblock*}
+
+\begin{textblock*}{4.5cm}(7.6cm,4.8cm)
+	\footnotesize After KFit:
+	
+	\footnotesize \textcolor{red}{MC}
+	
+	\footnotesize \textcolor{blue}{Data}
+\end{textblock*}
+
+
 	
 \end{frame}
 
 
-\begin{frame}{$ \theta$ of Proton for cos$(\theta_{\omega})=[-0.35,-0.25]$ (Dip)}
+\begin{frame}{$ \theta$ of proton for cos$(\theta_{\omega})=[-0.35,-0.25]$ (Dip)}
 	
 	\begin{figure}
 		\hspace{0cm}  \vspace{-1cm}
@@ -627,12 +691,30 @@ There is a 1:1 correlation between the polar angle of $p$ and $\omega$ for fixed
 		\label{fig:example}%
 	\end{figure}
 	
+		\begin{textblock*}{4.5cm}(3.1cm,4.8cm)
+		\footnotesize Reconstructed:
+		
+		\footnotesize \textcolor{red}{MC}
+		
+		\footnotesize \textcolor{blue}{Data}
+	\end{textblock*}
+	
+	\begin{textblock*}{4.5cm}(9.1cm,4.8cm)
+		\footnotesize After KFit:
+		
+		\footnotesize \textcolor{red}{MC}
+		
+		\footnotesize \textcolor{blue}{Data}
+	\end{textblock*}
+	
+	
+	
 \end{frame}
 
 
 
 
-\begin{frame}{Energy of Protons for cos$(\theta_{\omega})=[0.35,0.45]$ (Good)}
+\begin{frame}{Energy of protons for cos$(\theta_{\omega})=[0.35,0.45]$ (Good)}
 	
 	\begin{figure}
 		\hspace{0cm}  \vspace{-1cm}
@@ -649,10 +731,29 @@ There is a 1:1 correlation between the polar angle of $p$ and $\omega$ for fixed
 		\label{fig:example}%
 	\end{figure}
 	
+	
+	\begin{textblock*}{4.5cm}(1.6cm,4.8cm)
+		\footnotesize Reconstructed:
+		
+		\footnotesize \textcolor{red}{MC}
+		
+		\footnotesize \textcolor{blue}{Data}
+	\end{textblock*}
+	
+	\begin{textblock*}{4.5cm}(7.6cm,4.8cm)
+		\footnotesize After KFit:
+		
+		\footnotesize \textcolor{red}{MC}
+		
+		\footnotesize \textcolor{blue}{Data}
+	\end{textblock*}
+	
+	
+	
 \end{frame}
 
 
-\begin{frame}{$ \theta$ of Proton for cos$(\theta_{\omega})=[0.35,0.45]$ (Good)}
+\begin{frame}{$ \theta$ of proton for cos$(\theta_{\omega})=[0.35,0.45]$ (Good)}
 	
 		\begin{figure}
 	\hspace{0cm}  \vspace{-1cm}
@@ -671,7 +772,21 @@ There is a 1:1 correlation between the polar angle of $p$ and $\omega$ for fixed
 	\end{figure}
 	
 	
+		\begin{textblock*}{4.5cm}(3.3cm,4.8cm)
+		\footnotesize Reconstructed:
+		
+		\footnotesize \textcolor{red}{MC}
+		
+		\footnotesize \textcolor{blue}{Data}
+	\end{textblock*}
 	
+	\begin{textblock*}{4.5cm}(9.3cm,4.8cm)
+		\footnotesize After KFit:
+		
+		\footnotesize \textcolor{red}{MC}
+		
+		\footnotesize \textcolor{blue}{Data}
+	\end{textblock*}
 	
 	
 	
@@ -687,6 +802,13 @@ There is a 1:1 correlation between the polar angle of $p$ and $\omega$ for fixed
 		\captionsetup{labelformat=empty}
 		\caption{cos($\theta_{fit})$ vs. cos($\theta_{gen}$) for all protons.}
 	\end{figure}
+
+\begin{textblock*}{4.5cm}(3.5cm,3cm)
+	MC
+\end{textblock*}
+
+
+
 \end{frame}
 
 \begin{frame} {$\omega$: $\theta_{fit}$ vs. $\theta_{gen}$}
@@ -695,9 +817,13 @@ There is a 1:1 correlation between the polar angle of $p$ and $\omega$ for fixed
 	
 	\includegraphics[width=8cm]{Plots/MC/1/ThetaTheta1Omega.pdf}
 	\captionsetup{labelformat=empty}
-	\caption{cos($\theta_{fit})$ vs. cos($\theta_{gen}$) for all $\omega$.}
+	\caption{MC: cos($\theta_{fit})$ vs. cos($\theta_{gen}$) for all $\omega$.}
 	
 \end{figure}
+
+\begin{textblock*}{4.5cm}(3.5cm,3cm)
+	MC
+\end{textblock*}
 
 \end{frame}
 
@@ -711,9 +837,9 @@ There is a 1:1 correlation between the polar angle of $p$ and $\omega$ for fixed
 
 \begin{frame}{Motivation}
 	\begin{itemize}
-		\item $\mu$ is the \textit{true} distribution given by nature
-		\item detector effects are then described by the migration matrix \textit{R}. (inefficiencies, bias and smearing)
-		\item This results in the distribution $\nu$. 
+		\item $\mu$ is the \textcolor{red}{true distribution} given by nature
+		\item detector effects are then described by the \textcolor{red}{migration matrix} \textit{R} (inefficiencies, bias and smearing)
+		\item This results in the \textcolor{red}{measured distribution} $\nu$ 
 	\end{itemize}
 	%\begin{equation*}
 		\begin{center}
@@ -722,7 +848,7 @@ $		\nu_i = \sum_{j=1}^{M} R_{ij} \mu_j$
 	%\end{equation*}
 	
 	\begin{itemize}		
-		\item With infinite statistics, it would be possible to recover the original distribution by inverting the migration matrix
+		\item True distribution can be calculated by inverting the migration matrix $R$
 		
 	\end{itemize}
 
@@ -732,7 +858,7 @@ $		\nu_i = \sum_{j=1}^{M} R_{ij} \mu_j$
 %Unfortunately there are statistical fluctuations between bins and since R washes out statistical fluctuations R^-1 cannpt distinguish between wildly fluctuating and smoot distributions.
 
 \begin{itemize}
-	\item Use numerical methods to invert the migration matrix
+	\item Use numerical methods to invert the migration matrix 
 \end{itemize}
 
 
@@ -755,6 +881,16 @@ $		\nu_i = \sum_{j=1}^{M} R_{ij} \mu_j$
 		$cos \theta(\omega)_{fit}$ -->  simple 1D efficiency correction may not
 		work well enough}
 	
+\begin{textblock*}{4.5cm}(3.2cm,2cm)
+	\small \textcolor{blue}{True}	
+	
+	\small \textcolor{red}{Measured}
+	
+	\small \textcolor{black}{Unfolded}
+	
+	\small \textcolor{green}{Unfolded Fitted}
+\end{textblock*}
+
 
 	
 	
@@ -849,14 +985,26 @@ $		\nu_i = \sum_{j=1}^{M} R_{ij} \mu_j$
 \begin{textblock*}{4.5cm}(8.05cm,1.7cm)
 	\begin{itemize}
 		
-		\item $\omega$ are generated with a flat phase space
-		\item A migration matrix is calculated 
+	
+		\item A migration matrix is calculated with a flat $\omega$ phase space
 		\item This migration matrix is than used to unfold realistic MC 
-		\item Unfortunately, the unfolded cross section does not have the desired shape
 		
-		$\rightarrow$ Unfolding was unsuccessful
+		
+		\item $\rightarrow$ Unfolding was unsuccessful
 	\end{itemize}
 \end{textblock*}
+
+
+\begin{textblock*}{6cm}(2.0cm,4cm)
+	
+	\begin{figure}
+		\includegraphics<2>[width=6cm]{Plots/1}
+	\end{figure}
+	
+
+\end{textblock*}
+
+
 
 
 \end{frame}
@@ -866,15 +1014,56 @@ $		\nu_i = \sum_{j=1}^{M} R_{ij} \mu_j$
 
 
 \begin{frame}{Conclusion}
+	
+	\begin{textblock*}{6cm}(0.5cm,1.5cm)
+	
 	\begin{itemize}
-		\item Drop in the measured cross section at $\textrm{cos}(\theta_{\omega}) \approx -0.35$ is caused by a drop in the efficiency at that region
-		\item Inefficiency is caused by the protons hitting the edge of the CB
+		\item<1,2,3,4> Drop in the measured cross section at $\textrm{cos}(\theta_{\omega}) \approx -0.35$ is caused by a drop in the efficiency
+		
+	
+		\item<2,3,4> Inefficiency is caused by the protons hitting the edge of the CB
 		
 		$\rightarrow$ They are not reconstructed properly
-		\item There are differences between MC and Data
-		\item The differences are too big to make the Unfolding work
+		\item<3,4> There are differences between MC and data
+		\item<4> Unfolding does not work
 		
 	\end{itemize}
+\end{textblock*}	
+	
+	\begin{textblock*}{6cm}(6.6cm,1cm)
+		\begin{figure}
+			\includegraphics<1>[width=6.5cm]{Plots/4}
+			
+		\end{figure}
+	\end{textblock*}
+	
+		\begin{textblock*}{6cm}(6.6cm,2.2cm)
+		\begin{figure}
+			\includegraphics<2>[width=6cm]{Plots/CB}
+			
+		\end{figure}
+	\end{textblock*}
+	
+	\begin{textblock*}{6cm}(6.6cm,2.2cm)
+	\begin{figure}
+		\includegraphics<3>[width=6cm]{Plots/thetawF025}
+		
+	\end{figure}
+\end{textblock*}	
+	
+
+	
+	
+	
+	
+		\begin{textblock*}{6cm}(6.6cm,2.2cm)
+		\begin{figure}
+			\includegraphics<4>[width=6cm]{Plots/FlatMC.pdf}
+			
+		\end{figure}
+	\end{textblock*}	
+	
+	
 	
 	
 \end{frame}
